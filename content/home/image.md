@@ -16,4 +16,5 @@ design:
   columns: '2'
 ---
 
-{{< gallery album="assets/Display/" >}}
+video:
+'DigitalStorm: (assets/Display/DG.gif)'
