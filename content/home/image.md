@@ -15,17 +15,4 @@ subtitle:
 design:
   columns: '1'
 ---
-{{< gallery album="albums" >}}
-gallery_item:
-- album: albums
-  image: dg2.jpg
-  caption: Lab computer
-- album: albums
-  image: fsu.jpg
-  caption: FSU
-- album: albums
-  image: sdv.jpg
-  caption: self-driving car
-- album: albums
-  image: standbysys.jpg
-  caption: standby wheel system
+![](album.png "")
