@@ -15,7 +15,7 @@ subtitle:
 design:
   columns: '1'
 ---
-
+{{< gallery album="assets/media/albums/" >}}
 gallery_item:
 - album: assets/media/albums/
   image: dg2.jpg
