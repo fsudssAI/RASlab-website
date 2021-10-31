@@ -14,13 +14,7 @@ subtitle:
 
 design:
   columns: "1"
-  background:
-    image: album.png
-    image_darken: 0
-    image_parallax: false
-    image_position: center
-    image_size:
-    text_color_light: true
-  
+advanced:
+  css_class: fullscreen
 ---
-
+{{< figure src="album.png" caption="" theme="light" >}}
