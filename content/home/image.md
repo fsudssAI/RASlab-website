@@ -15,17 +15,17 @@ subtitle:
 design:
   columns: '1'
 ---
-{{< gallery album="assets/media/albums/" >}}
+{{< gallery album="albums" >}}
 gallery_item:
-- album: assets/media/albums/
+- album: albums
   image: dg2.jpg
   caption: Lab computer
-- album: assets/media/albums/
+- album: albums
   image: fsu.jpg
   caption: FSU
-- album: assets/media/albums/
+- album: albums
   image: sdv.jpg
   caption: self-driving car
-- album: assets/media/albums/
+- album: albums
   image: standbysys.jpg
   caption: standby wheel system
