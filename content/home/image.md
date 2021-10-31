@@ -15,6 +15,6 @@ subtitle:
 design:
   columns: "1"
 spacing:
-  padding: ["20px", "0", "20px", "0"]
+  padding: ["0px", "0", "0px", "0"]
 ---
 {{< figure src="album.png" caption="" theme="light" >}}
