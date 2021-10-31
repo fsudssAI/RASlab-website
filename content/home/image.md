@@ -16,4 +16,4 @@ design:
   columns: '1'
 ---
 
- {{< gallery album="albums" >}} 
+ {{< figure src="DG.gif" caption="Lab Computer" theme="light" >}}
