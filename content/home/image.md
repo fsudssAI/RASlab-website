@@ -16,4 +16,16 @@ design:
   columns: '1'
 ---
 
- {{< figure src="DG.gif" caption="Lab Computer" theme="light" >}}
+gallery_item:
+- album: assets/media/albums/
+  image: dg2.jpg
+  caption: Lab computer
+- album: assets/media/albums/
+  image: fsu.jpg
+  caption: FSU
+- album: assets/media/albums/
+  image: sdv.jpg
+  caption: self-driving car
+- album: assets/media/albums/
+  image: standbysys.jpg
+  caption: standby wheel system
