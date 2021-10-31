@@ -14,7 +14,7 @@ subtitle:
 
 design:
   columns: "1"
-advanced:
-  css_class: fullscreen
+spacing:
+  padding: ["20px", "0", "20px", "0"]
 ---
 {{< figure src="album.png" caption="" theme="light" >}}
