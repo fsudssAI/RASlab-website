@@ -9,11 +9,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: Gallery
+title: 
 subtitle:
 
 design:
-  columns: '2'
+  columns: '1'
 ---
 
-{{< gallery album="assets/media/albums/" >}}
+{{< video library="true" src="DG.mp4" controls="yes" >}}
