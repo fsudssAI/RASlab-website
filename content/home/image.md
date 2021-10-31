@@ -16,4 +16,4 @@ design:
   columns: '1'
 ---
 
-{{< video library="true" src="DG.mp4" controls="yes" >}}
+ {{< gallery album="assets/media/albums/" >}} 
