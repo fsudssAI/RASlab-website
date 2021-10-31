@@ -8,7 +8,7 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
   Resilient & Autonomous Systems Lab
-hero_media: ''
+hero_media: 'DG.gif'
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **Wowchemy Research Group** has been a center of excellence for Artificial Intelligence research, teaching, and practice since its founding in 2016.
+The **RAS Lab** provides education and researching opportunities in multiple areas: Cyber-physical system security, Autonomous system (self-driving vehicle), Distribution systems, Optimization.
