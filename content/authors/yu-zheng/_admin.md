@@ -18,8 +18,7 @@ organizations:
   url: "https://www.fsu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+bio: My research interests include concurrent learning, and resilient control and estimation design for cyber-physical systems and autonomous systems
 interests:
 - Resilient Control and Estimation
 - Deep Learning
@@ -46,7 +45,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'yz19b@fsu.edu'
-- icon: fa-linkedin
+- icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yu-zheng-b2a16615a/
 - icon: google-scholar
@@ -70,4 +69,4 @@ user_groups:
 - Grad Students
 ---
 
-Yu Zheng is a Ph.D. candidate in the Resilient and Autonomous Systems Lab with the Department of Electrical and Computer Engineering at Florida State University. His research interest includes concurrent learning, and resilient control and estimation design for cyber-physical systems and autonomous systems.
+Yu Zheng is a Ph.D. candidate in the Resilient and Autonomous Systems Lab with the Department of Electrical and Computer Engineering at Florida State University. His research interests include concurrent learning, and resilient control and estimation design for cyber-physical systems and autonomous systems.
