@@ -4,7 +4,7 @@ title: Yu Zheng
 
 # Username (this should match the folder name)
 authors:
-- yu-zheng
+- Yu Zheng
 
 # Is this the primary user of the site?
 superuser: true
