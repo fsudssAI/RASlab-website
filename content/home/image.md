@@ -15,4 +15,4 @@ subtitle:
 design:
   columns: '1'
 ---
-![](album.png "")
+{{< figure src="album.png" caption="" theme="light" >}}
