@@ -9,12 +9,11 @@ headless: true
 # Order that this section appears on the page.
 weight: 20
 
-title: About us
+title:
 subtitle:
 
 design:
   columns: '2'
 ---
 
-video:
-'DigitalStorm: (assets/Display/DG.gif)'
+{{< gallery album="<album>" >}}
