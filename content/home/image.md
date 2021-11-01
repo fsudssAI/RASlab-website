@@ -5,7 +5,7 @@ weight: 20
 
 interval: false
 
-height: 600px
+height: 1600px
 
 
 item:
@@ -13,5 +13,5 @@ item:
     content: 
     align: center
     overlay_img: album.png  # Image path relative to your `assets/media/` folder
-    overlay_filter: 0.1  # Darken the image. Value in range 0-1.
+    overlay_filter: 0.9  # Darken the image. Value in range 0-1.
 ---
