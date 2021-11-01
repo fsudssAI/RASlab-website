@@ -9,4 +9,6 @@ weight: 20  # section position on page
 design:
   columns: '1'
 ---
-
+<center><p float="center">
+  <img src="album.png" width="800" />
+</p></center>
