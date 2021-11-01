@@ -10,5 +10,5 @@ design:
   columns: '1'
 ---
 <center><p float="center">
-  <img src="album.png" width="800" />
+  <img src="/assets/media/album.png" width="800" />
 </p></center>
