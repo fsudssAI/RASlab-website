@@ -18,7 +18,7 @@ organizations:
   url: "https://www.fsu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include concurrent learning, and resilient control and estimation design for cyber-physical systems and autonomous systems
+bio:
 interests:
 - Power System Security
 - Machine Learning
