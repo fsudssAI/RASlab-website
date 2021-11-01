@@ -61,5 +61,5 @@ user_groups:
 - Grad Students
 ---
 
-ina Ameli received his B.Sc., and M.Sc. degrees in Electrical Engineering (Electronics, and Controls) from Azad University, Isfahan, Iran, in 2006, and 2011, respectively.
+Sina Ameli received his B.Sc., and M.Sc. degrees in Electrical Engineering (Electronics, and Controls) from Azad University, Isfahan, Iran, in 2006, and 2011, respectively.
 From 2012 to 2016 he was a member of the Advanced Process Automation and Control research group (APAC) at K.N Toosi University of Technology, Tehran, Iran.
