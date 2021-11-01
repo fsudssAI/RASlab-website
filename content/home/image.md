@@ -15,4 +15,4 @@ subtitle:
 design:
   columns: "1"
 ---
-{{< figure src="album.png" caption="" theme="light" >}}
+{{< gallery album="album" >}}
