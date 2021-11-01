@@ -20,9 +20,12 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 interests:
-- Power System Security
-- Machine Learning
-- Deep Learning
+- Control, Design & Analysis of Power Electronics Systems
+- Energy Conversion
+- Power Electronics Converters
+- Distributed Control, Microgrids
+- Renewable Energy
+- Energy Storage Systems Control.
 
 education:
   courses:
