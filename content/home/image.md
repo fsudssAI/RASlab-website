@@ -3,9 +3,9 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: 
+title: About us
 subtitle:
-weight: 30  # section position on page
+weight: 20  # section position on page
 design:
   columns: '1'
 ---
