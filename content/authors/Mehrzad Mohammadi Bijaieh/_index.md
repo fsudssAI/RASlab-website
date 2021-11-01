@@ -29,7 +29,7 @@ interests:
 
 education:
   courses:
-  - course: PhD candidate in Electrical Engineering and Power Electronics
+  - course: PhD in Electrical Engineering and Power Electronics
     institution: Michigan Technological University
     year: 2018
   - course: MS in Electrical Engineering and Power Electronics
