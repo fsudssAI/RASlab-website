@@ -10,4 +10,4 @@ design:
   columns: '1'
 ---
 
-{{< figure src="album.png" caption="" theme="light"  float= "center" width= "100%" >}}
+{{< figure src="album.png" caption="" theme="light"  float= "center" width= "150%" >}}
