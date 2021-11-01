@@ -9,6 +9,5 @@ weight: 20  # section position on page
 design:
   columns: '1'
 ---
-{{<center><p float="center">
-  <img src="/assets/media/album.png" width="800" />
-</p></center>}}
+
+{{< figure src="album.png" caption="" theme="light"  float= "center" width= "100%" >}}
