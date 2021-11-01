@@ -14,12 +14,6 @@ role: Assistant Professor
 
 # Organizations/Affiliations
 organizations:
-- name: Department of Electrical & Computer Engineering
-  url: "https://www.eng.famu.fsu.edu/ece"
-- name: Center for Advanced Power Systems (CAPS)
-  url: "https://www.caps.fsu.edu/"
-- name: Center for Intelligent Systems, Control, and Robotics (CISCOR) 
-  url:"https://www.ciscor.org/"
 - name: Florida State University
   url: "https://www.fsu.edu/"
 
