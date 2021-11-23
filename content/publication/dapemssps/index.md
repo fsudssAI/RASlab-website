@@ -1,10 +1,12 @@
 ---
-title: "An example conference paper"
+title: "Degradation Aware Predictive Energy Management Strategy for Ship Power Systems"
 authors:
-- admin
-- Robert Ford
+- Satish Vedula
+- Mehrzad Mohammadi Bijaieh
+- Ellis Oti Boateng
+- Olugbenga Moses Anubi
 date: "2013-07-01T00:00:00Z"
-doi: ""
+doi: "10.1109/ESTS49166.2021.9512363"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -16,27 +18,43 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *Source Themes Conference*
-publication_short: In *STC*
+publication: In *2021 Electric Ship Technologies Symposium*
+publication_short: In *ESTS*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Integration of modern defence weapons into ship
+power systems poses a challenge in terms of meeting the high
+ramp rate requirements of those loads. It might be demanding
+for the generators to meet the ramp rates of these loads. Failure
+to meet so, might lead to stability issues. This is addressed
+by conglomeration of generators and energy storage elements
+to handle the required power demand posed by loads. This
+paper proposes an energy management strategy based on model
+predictive control that incorporates the uncertainty in the
+load prediction. The proposed controller optimally coordinates
+the power split between the generators and energy storage
+elements to guarantee that the power demand is met taking
+into considerations the ramp rate limitations and the load
+uncertainty. A low bandwidth model consisting of a single
+generator and a single energy storage element is used to validate
+the results of the proposed energy management strategy. The
+results demonstrate the robustness of the controller under
+load prediction uncertainty and demonstrate the effect of load
+uncertainty on battery capacity loss.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: 
 
 tags:
 - Source Themes
 featured: true
 
 links:
-- name: Custom Link
-  url: http://example.org
-url_pdf: http://eprints.soton.ac.uk/352095/1/Cushen-IMV2013.pdf
+url_pdf: https://github.com/fsudssAI/starter-hugo-research-group/tree/main/content/publication/dapemssps/dapemssps.pdf
 url_code: '#'
 url_dataset: '#'
 url_poster: '#'
 url_project: ''
-url_slides: ''
+url_slides: https://github.com/fsudssAI/starter-hugo-research-group/tree/main/content/publication/dapemssps/slide
 url_source: '#'
 url_video: '#'
 
@@ -67,4 +85,3 @@ slides:
 Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 {{% /callout %}}
 
-Supplementary notes can be added here, including [code and math](https://sourcethemes.com/academic/docs/writing-markdown-latex/).
