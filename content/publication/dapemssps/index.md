@@ -36,7 +36,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: https://github.com/fsudssAI/starter-hugo-research-group/tree/main/content/publication/dapemssps/slide
+url_slides: https://github.com/fsudssAI/starter-hugo-research-group/tree/main/content/publication/dapemssps/slide.pptx
 url_source: ''
 url_video: ''
 
