@@ -21,25 +21,7 @@ publication_types: ["1"]
 publication: In *2021 Electric Ship Technologies Symposium*
 publication_short: In *ESTS*
 
-abstract: Integration of modern defence weapons into ship
-power systems poses a challenge in terms of meeting the high
-ramp rate requirements of those loads. It might be demanding
-for the generators to meet the ramp rates of these loads. Failure
-to meet so, might lead to stability issues. This is addressed
-by conglomeration of generators and energy storage elements
-to handle the required power demand posed by loads. This
-paper proposes an energy management strategy based on model
-predictive control that incorporates the uncertainty in the
-load prediction. The proposed controller optimally coordinates
-the power split between the generators and energy storage
-elements to guarantee that the power demand is met taking
-into considerations the ramp rate limitations and the load
-uncertainty. A low bandwidth model consisting of a single
-generator and a single energy storage element is used to validate
-the results of the proposed energy management strategy. The
-results demonstrate the robustness of the controller under
-load prediction uncertainty and demonstrate the effect of load
-uncertainty on battery capacity loss.
+abstract: Integration of modern defence weapons into ship power systems poses a challenge in terms of meeting the high ramp rate requirements of those loads. It might be demanding for the generators to meet the ramp rates of these loads. Failure to meet so, might lead to stability issues. This is addressed by conglomeration of generators and energy storage elements to handle the required power demand posed by loads. This paper proposes an energy management strategy based on model predictive control that incorporates the uncertainty in the load prediction. The proposed controller optimally coordinates the power split between the generators and energy storage elements to guarantee that the power demand is met taking into considerations the ramp rate limitations and the load uncertainty. A low bandwidth model consisting of a single generator and a single energy storage element is used to validate the results of the proposed energy management strategy. The results demonstrate the robustness of the controller under load prediction uncertainty and demonstrate the effect of load uncertainty on battery capacity loss.
 
 # Summary. An optional shortened abstract.
 summary: 
