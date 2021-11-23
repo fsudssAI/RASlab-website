@@ -32,13 +32,13 @@ featured: true
 
 links:
 url_pdf: https://github.com/fsudssAI/starter-hugo-research-group/tree/main/content/publication/dapemssps/dapemssps.pdf
-url_code: '#'
-url_dataset: '#'
-url_poster: '#'
+url_code: ''
+url_dataset: ''
+url_poster: ''
 url_project: ''
 url_slides: https://github.com/fsudssAI/starter-hugo-research-group/tree/main/content/publication/dapemssps/slide
-url_source: '#'
-url_video: '#'
+url_source: ''
+url_video: ''
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder. 
@@ -62,8 +62,4 @@ projects:
 #   Otherwise, set `slides: ""`.
 slides:
 ---
-
-{{% callout note %}}
-Click the *Cite* button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-{{% /callout %}}
 
