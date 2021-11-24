@@ -35,7 +35,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: https://github.com/fsudssAI/starter-hugo-research-group/tree/main/content/publication/mlpcdemsps/slide.pptx
+url_slides: https://github.com/fsudssAI/starter-hugo-research-group/tree/main/content/publication/mlpcdemsps/slide.pdf
 url_source: ''
 url_video: ''
 
