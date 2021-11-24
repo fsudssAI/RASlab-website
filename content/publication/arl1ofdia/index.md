@@ -1,12 +1,10 @@
 ---
-title: "Degradation Aware Predictive Energy Management Strategy for Ship Power Systems"
+title: "Attack-Resilient Weighted L1 Observer with Prior Pruning"
 authors:
-- Satish Vedula
-- Mehrzad Mohammadi Bijaieh
-- Ellis Oti Boateng
+- Yu Zheng
 - Olugbenga Moses Anubi
-date: "2021-08-03T00:00:00Z"
-doi: "10.1109/ESTS49166.2021.9512363"
+date: "2021-05-25T00:00:00Z"
+doi: "10.23919/ACC50511.2021.9482913"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,25 +16,25 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *2021 Electric Ship Technologies Symposium*
-publication_short: In *ESTS*
+publication: In *2021 American Control Conference*
+publication_short: In *ACC*
 
-abstract: Integration of modern defence weapons into ship power systems poses a challenge in terms of meeting the high ramp rate requirements of those loads. It might be demanding for the generators to meet the ramp rates of these loads. Failure to meet so, might lead to stability issues. This is addressed by conglomeration of generators and energy storage elements to handle the required power demand posed by loads. This paper proposes an energy management strategy based on model predictive control that incorporates the uncertainty in the load prediction. The proposed controller optimally coordinates the power split between the generators and energy storage elements to guarantee that the power demand is met taking into considerations the ramp rate limitations and the load uncertainty. A low bandwidth model consisting of a single generator and a single energy storage element is used to validate the results of the proposed energy management strategy. The results demonstrate the robustness of the controller under load prediction uncertainty and demonstrate the effect of load uncertainty on battery capacity loss.
+abstract: Security related questions for Cyber Physical Systems (CPS) have attracted much research attention in searching for novel methods for attack-resilient control and/or estimation. Specifically, false data injection attacks (FDIAs) have been shown to be capable of bypassing bad data detection (BDD), while arbitrarily compromising the integrity of state estimators and robust controller even with very sparse measurements corruption. Moreover, based on the inherent sparsity of pragmatic attack signals, L1 -minimization scheme has been used extensively to improve the design of attack-resilient estimators. For this, the theoretical maximum for the percentage of compromised nodes that can be accommodated has been shown to be 50%. In order to guarantee correct state recoveries for larger percentage of attacked nodes, researchers have begun to incorporate prior information into the underlying resilient observer design framework. For the most pragmatic cases, this prior information is often obtained through some data-driven machine learning process. Existing results have shown strong positive correlation between the tolerated attack percentages and the precision of the prior information. In this paper, we present a pruning method to improve the precision of the prior information, given corresponding stochastic uncertainty characteristics of the underlying machine learning model. Then a weighted l 1 -minimization is proposed based on the pruned prior. The theoretical and simulation results show that the pruning method significantly improves the observer performance for much larger attack percentages, even when moderately accurate machine learning model used.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: This paper proposed a weighted `1 observer with prior pruning scheme against FDIAs. The pruning method gives a method to improve localization precision of any underlying localization algorithm without training effort. Moreover, the weighted L1 observer with prior pruning is capable of coping with high-percentage of attacks among measurement nodes, which relaxes the transitional restriction on the maximum attack percentage for resilient `1 observer, thereby improve the resiliency of systems.
 
 tags:
 - Source Themes
 featured: true
 
 links:
-url_pdf: https://github.com/fsudssAI/starter-hugo-research-group/tree/main/content/publication/dapemssps/dapemssps.pdf
-url_code: ''
+url_pdf: https://github.com/fsudssAI/starter-hugo-research-group/tree/main/content/publication/arl1ofdia/arl1ofdia.pdf
+url_code: 'https://github.com/ZYblend/Resilient-Pruning-Observer'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: https://github.com/fsudssAI/starter-hugo-research-group/tree/main/content/publication/dapemssps/slide.pdf
+url_slides: https://github.com/fsudssAI/starter-hugo-research-group/tree/main/content/publication/arl1ofdia/slide.pdf
 url_source: ''
 url_video: ''
 
@@ -53,7 +51,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+# - internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
