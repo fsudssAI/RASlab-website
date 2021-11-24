@@ -20,7 +20,7 @@ publication_types: ["1"]
 publication: In *2021 Conference on Control Technology and Applications*
 publication_short: In *CCTA*
 
-abstract: In current Medium Voltage DC (MVDC) Shipboard Power Systems (SPSs), multiple sources exist to supply power to a common dc bus. Conventionally, the power management of such systems is performed by controlling Power Generation Modules (PGMs) which include fuel operated generators and underlying converters. Moreover, energy management is performed by the emerging single or hybrid Energy Storage Systems (ESSs). This paper presents a model and load predictive control framework for power and energy management of SPSs. Here, MPC with load prediction is used for three main objectives: (1) to request power and energy from generators and energy storage elements according to their individual State of Power (SOP) and ramp-rate limitations, (2) to consider and integrate the generator cost and degradation, and (3) to reach a specific parking (final) State of Charge (SOC) for the ESSs at the end of the prediction horizon. The solution of the optimization problem is demonstrated using MATLAB and the functionality of the control framework is validated in real-time simulation environment.
+abstract:In current Medium Voltage DC (MVDC) Shipboard Power Systems (SPSs), multiple sources exist to supply power to a common dc bus. Conventionally, the power management of such systems is performed by controlling Power Generation Modules (PGMs) which include fuel operated generators and underlying converters. Moreover, energy management is performed by the emerging single or hybrid Energy Storage Systems (ESSs). This paper presents a model and load predictive control framework for power and energy management of SPSs. Here, MPC with load prediction is used for three main objectives: (1) to request power and energy from generators and energy storage elements according to their individual State of Power (SOP) and ramp-rate limitations, (2) to consider and integrate the generator cost and degradation, and (3) to reach a specific parking (final) State of Charge (SOC) for the ESSs at the end of the prediction horizon. The solution of the optimization problem is demonstrated using MATLAB and the functionality of the control framework is validated in real-time simulation environment.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -35,7 +35,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: https://github.com/fsudssAI/starter-hugo-research-group/tree/main/content/publication/mlpcdemsps/slide.pdf
+url_slides: https://github.com/fsudssAI/starter-hugo-research-group/tree/main/content/publication/mlpcdemsps/slide.pptx
 url_source: ''
 url_video: ''
 
