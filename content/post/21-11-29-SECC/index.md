@@ -1,6 +1,6 @@
 ---
 title: Yu Zheng and Sina Ameli are sharing their work on 2021 Southeast Control Conference
-date: 2020-12-01
+date: 2021-11-29
 ---
 
 Yu Zheng and Sina Ameli are conducting poster presentation on 2021 Southeast Control Conference (SECC).
