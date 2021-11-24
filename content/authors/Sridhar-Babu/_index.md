@@ -1,10 +1,10 @@
 ---
 # Display name
-title: Sridhar Babu Mudhangulla
+title: Mudhangulla Sridhar Babu
 
 # Username (this should match the folder name)
 authors:
-- Sridhar Babu Mudhangulla
+- Mudhangulla Sridhar Babu
 
 # Is this the primary user of the site?
 superuser: false
@@ -20,16 +20,22 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 interests:
--  Vehicle control
+-  Autonomous systems
+-  Motion control 
+-  Formation control
+-  Robotics
 
 education:
   courses:
-  - course: 
-    institution: 
+  - course: Ph.D student in Electrical and Computer Engineering
+    institution: Florida State University
+    year: present
+  - course: MS in Mechanical Engineering 
+    institution: FAMU-FSU college of Engineering
     year: 
-  - course: 
-    institution: 
-    year: 
+  - course: BTech and Mtech in Mechanical Engineering 
+    institution: Indian Institute of Technology Hyderabad (IIT-H) 
+    year:
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
@@ -39,6 +45,9 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'sridhar0801ofcl@gmail.com'
+- icon: linkedin
+  icon_pack: fas
+  link: https://www.linkedin.com/in/sridhar-babu-mudhangulla-877034124/
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
