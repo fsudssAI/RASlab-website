@@ -1,12 +1,10 @@
 ---
-title: "Degradation Aware Predictive Energy Management Strategy for Ship Power Systems"
+title: "Attack-Resilient Observer Pruning for Path-Tracking Control of Wheeled Mobile Robot"
 authors:
-- Satish Vedula
-- Mehrzad Mohammadi Bijaieh
-- Ellis Oti Boateng
+- Yu Zheng
 - Olugbenga Moses Anubi
-date: "2021-08-03T00:00:00Z"
-doi: "10.1109/ESTS49166.2021.9512363"
+date: "2020-10-05T00:00:00Z"
+doi: "10.1115/DSCC2020-3139"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -18,25 +16,25 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: In *2021 Electric Ship Technologies Symposium*
-publication_short: In *ESTS*
+publication: In *2020 Dynamic Systems and Control Division, DSCC*
+publication_short: In *DSCC*
 
-abstract: Integration of modern defence weapons into ship power systems poses a challenge in terms of meeting the high ramp rate requirements of those loads. It might be demanding for the generators to meet the ramp rates of these loads. Failure to meet so, might lead to stability issues. This is addressed by conglomeration of generators and energy storage elements to handle the required power demand posed by loads. This paper proposes an energy management strategy based on model predictive control that incorporates the uncertainty in the load prediction. The proposed controller optimally coordinates the power split between the generators and energy storage elements to guarantee that the power demand is met taking into considerations the ramp rate limitations and the load uncertainty. A low bandwidth model consisting of a single generator and a single energy storage element is used to validate the results of the proposed energy management strategy. The results demonstrate the robustness of the controller under load prediction uncertainty and demonstrate the effect of load uncertainty on battery capacity loss.
+abstract: Path-tracking control of wheeled mobile robot (WMR) has gained a lot of research attention, primarily because of its wide applicability — for example intelligent wheelchairs, exploration-assistant remote WMR. Recent increase in remote and autonomous operations/requirements for WMR has led to more and more use of IoT devices within the control loop. Consequently, providing interfaces for malicious interactions through false data injection attacks (FDIA). Moreover, optimization-based FDIAs have been shown to cause catastrophic consequences in feedback control systems while by-passing any residual-based monitoring system. Since these attacks target system measurement process, this paper focuses on the problem of improving the resiliency of dynamical observers against FDIA. Specifically, we propose an attack-resilient pruning algorithm which attempts to exclude compromised channels from being processed by the observer. The proposed pruning algorithm improves attack-localization precision to 100% with high probability, which correspondingly improves the resiliency of the underlying UKF to FDIA. The improvements due to the developed resilient pruning-based observer is validated through a numerical simulation of a two-layer path-tracking control platform of differential-driven wheeled mobile robot (DDWMR) under FDIA.
 
 # Summary. An optional shortened abstract.
-summary: 
+summary: In this paper, an attack-resilient path tracking control scheme for wheeled mobile robot under an optimization-based FDIA was designed. The main contributions include; (1) Stable path-tracking control system for DDWMR, (2) Optimizationbased FDIA for DDWMR, and (3) The pruning-based observer design using UKF as the underlying observer. It was shown that the proposed pruning-based observer significantly improves the signal-to-attack ratio such that the UKF is able to resiliently estimate the state of the DDWMR even when portion of the sensor measurements were subject to an FDIA.
 
 tags:
 - Source Themes
 featured: true
 
 links:
-url_pdf: https://github.com/fsudssAI/starter-hugo-research-group/tree/main/content/publication/dapemssps/dapemssps.pdf
-url_code: ''
+url_pdf: https://github.com/fsudssAI/starter-hugo-research-group/tree/main/content/publication/aropptcwmr/aropptcwmr.pdf
+url_code: 'https://github.com/ZYblend/Resilient-path-tracking-control-for-WMR'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: https://github.com/fsudssAI/starter-hugo-research-group/tree/main/content/publication/dapemssps/slide.pdf
+url_slides: https://github.com/fsudssAI/starter-hugo-research-group/tree/main/content/publication/aropptcwmr/slide.pdf
 url_source: ''
 url_video: ''
 
@@ -53,7 +51,7 @@ image:
 #   E.g. `internal-project` references `content/project/internal-project/index.md`.
 #   Otherwise, set `projects: []`.
 projects:
-- internal-project
+# - internal-project
 
 # Slides (optional).
 #   Associate this publication with Markdown slides.
