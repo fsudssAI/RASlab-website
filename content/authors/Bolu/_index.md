@@ -18,7 +18,7 @@ organizations:
   url: "https://www.fsu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio: Boluwatife received his BSc in Mechanical Engineering at the Federal University of Technology, Nigeria, and his M.S at the FAMU-FSU College of Engineering. Boluwatife S. Olabiran is a Ph.D. student in the Electrical & Computer Engineering department at the FAMU-FSU College of Engineering under Dr. Olugbenga M. Anubi. His research interests include Artificial Intelligence, Computer Vision, Autonomous Vehicles, and controls.
+bio: 
 interests:
 - Artificial Intelligence
 - Computer vision
@@ -63,4 +63,5 @@ user_groups:
 - Grad Students
 ---
 
+Boluwatife received his BSc in Mechanical Engineering at the Federal University of Technology, Nigeria, and his M.S at the FAMU-FSU College of Engineering. Boluwatife S. Olabiran is a Ph.D. student in the Electrical & Computer Engineering department at the FAMU-FSU College of Engineering under Dr. Olugbenga M. Anubi. His research interests include Artificial Intelligence, Computer Vision, Autonomous Vehicles, and controls.
 
