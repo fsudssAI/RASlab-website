@@ -1,10 +1,10 @@
 ---
-title: Image-based Localization System
+title: Image based Localization System
 
 event:
 event_url:
 
-location:
+location: 
 address:
   street: 
   city:
@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: "2017-01-01T00:00:00Z"
 
-authors: [Boluwatife Olabiran]
+authors: []
 tags: []
 
 # Is this a featured talk? (true/false)
