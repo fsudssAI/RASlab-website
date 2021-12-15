@@ -12,5 +12,5 @@ The purpose of [SECC](https://secc21.com/) is to provide an inexpensive venue fo
 **Sina Ameli** is conducting a presentation of his work **A Distributed Robust Adaptive Control for a Class of Nonlinearly Coupled Hierarchical Systems with Actuator Faults**.<br>
 
 - [Yu's poster](https://github.com/fsudssAI/starter-hugo-research-group/blob/main/content/post/2021secc/Yu_Poster.pdf) <br>
-- [Sina's Poster](https://github.com/fsudssAI/starter-hugo-research-group/blob/main/content/post/2021secc/Sina_poster.pdf)
+- [Sina's Poster](https://github.com/fsudssAI/starter-hugo-research-group/blob/main/content/post/2021secc/Sina_Poster.pdf)
 
