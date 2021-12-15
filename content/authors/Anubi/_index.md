@@ -7,7 +7,7 @@ authors:
 - Olugbenga Moses Anubi
 
 # Is this the primary user of the site?
-superuser: true
+superuser: false
 
 # Role/position
 role: Assistant Professor
@@ -29,10 +29,10 @@ education:
   courses:
   - course: PhD in Mechanical Engineering with a minor in Mathematics
     institution: University of Florida
-    year: 
+    year: 2013
   - course: B.Sc (First Class Honors) in Systems Enginerring
     institution: University of Lagos, Nigeria
-    year: 2017
+    year: 2006
 
 # Social/Academic Networking
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
