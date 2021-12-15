@@ -7,7 +7,7 @@ authors:
 - Olugbenga Moses Anubi
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Assistant Professor
@@ -29,7 +29,7 @@ education:
   courses:
   - course: PhD in Mechanical Engineering with a minor in Mathematics
     institution: University of Florida
-    year: present
+    year: 
   - course: B.Sc (First Class Honors) in Systems Enginerring
     institution: University of Lagos, Nigeria
     year: 2017
@@ -43,8 +43,8 @@ social:
   icon_pack: fas
   link: 'oanubi@fsu.edu'
 - icon: external-link-alt
-  icon_pack: fas
-  link: 'https://web1.eng.famu.fsu.edu/~anubi/index.html'
+  icon_pack: fab
+  link: https://web1.eng.famu.fsu.edu/~anubi/index.html
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
@@ -65,3 +65,4 @@ Olugbenga M. Anubi is an Assistant Professor of Electrical & Computer Engineerin
 Dr. Anubi obtained a B.Sc (First Class Honors) in Systems Enginerring from the University of Lagos, Nigeria. He received a Ph.D in Mechanical Engineering with a minor in Mathematics from the University of Florida, Gainesville. He was a postdoctoral scholar with the Hyundai Center of Excellence in Vehicle Dynamics and Control at the University of California, Davis.
 
 Prior to joining FSU, Dr. Anubi spent three years in the industry working at the GE Global Research (GE-GRC) where he was a Lead Control Systems Engineer and heavily involved in research activities on real-time optimization and control with applications to power generation, and cyber-security. His work within GE resulted in 12 Patent Applications and several recognitions including the GE Technology Award (Physical+Digital), the Connected Controls Technical Achievement Award, the Whitney Award and the Dushman Technology Award.
+
