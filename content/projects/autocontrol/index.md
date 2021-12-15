@@ -12,7 +12,7 @@ address:
   postcode:
   country:
 
-summary: A real-world localization system based on image. It contains: object dectetion, learning-based image-world perspection, trajectory interpolation and smoothing.
+summary: A real-world localization system based on image. It contains object dectetion, learning-based image-world perspection, trajectory interpolation and smoothing.
 abstract: ""
 
 # Talk start and end times.
