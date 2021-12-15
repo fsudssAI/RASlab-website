@@ -57,3 +57,6 @@ user_groups:
 - Grad Students
 ---
 
+
+Ellis Oti Boateng is a Ph.D. student in the Electrical Engineering PhD program at Florida State University. Ellis received his BSc in Electrical/Electronic Engineering at the Kwame Nkrumah University of Science and Technology, Ghana. Prior to joining the PhD program, Ellis worked as an analyst with the General Electric Energy Consulting team in Ghana.
+Ellis is currently a Graduate Research Assistant at the Center for Advanced Power Systems, working under Dr Anubi. His research interests include Power Systems Optimization, Economic Viability of Vehicle-to-Grid technology, Renewable Energy Integration.
