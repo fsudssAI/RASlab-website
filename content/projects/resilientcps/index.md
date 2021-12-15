@@ -1,19 +1,19 @@
 ---
-title: Example Event
+title: Cyber-Physical System Security
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: 
+event_url: 
 
-location: Wowchemy HQ
+location:
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street:
+  city:
+  region: 
+  postcode: 
+  country:
 
-summary: An example event.
-abstract: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam."
+summary: Cyber-physical system (CPS) is a relatively young area of research, with the term itself only recently coined in 2006 by the National Science Foundation (NSF) to refer to the tight conjoining of and coordination between computational and physical resources. The seamless integration of computation, networking and physical components is a main characteristic of CPS but also enables malicious agents chances to inject attacks. As advances continue to be made in computation and networking technologies, the quest to synthesize control laws that meet the necessary resiliency requirements will become even more challenging. This research is focusing on vulnerability analysis, anomaly detection, characterization, and localization, to resilient control and state estimation designs against adversarial targeting.
+abstract: ""
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
@@ -53,11 +53,3 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-
-Slides can be added in a few ways:
-
-- **Create** slides using Wowchemy's [*Slides*](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
-- **Upload** an existing slide deck to `static/` and link using `url_slides` parameter in the front matter of the talk file
-- **Embed** your slides (e.g. Google Slides) or presentation video on this page using [shortcodes](https://wowchemy.com/docs/writing-markdown-latex/).
-
-Further event details, including page elements such as image galleries, can be added to the body of this page.
