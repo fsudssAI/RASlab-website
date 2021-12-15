@@ -1,5 +1,5 @@
 ---
-title: "Attack-Resilient Weighted L1 Observer with Prior Pruning"
+title: "Algorithm Design for Resilient Cyber-Physical Systems using an Automated Attack Generative Model"
 authors:
 - Yu Zheng
 - Ali Sayghe
