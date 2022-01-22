@@ -1,5 +1,5 @@
 ---
-title: "Attack-Resilient Weighted L1 Observer with Prior Pruning"
+title: "On the regenerative capabilities of electrodynamic dampers using bond graphs and model predictive control"
 authors:
 - Layne Clemen
 - Olugbenga Moses Anubi
