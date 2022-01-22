@@ -3,7 +3,7 @@ title: "Attack-Resilient Weighted L1 Observer with Prior Pruning"
 authors:
 - Layne Clemen
 - Olugbenga Moses Anubi
-- - Donald Margolis
+- Donald Margolis
 date: "2016-03-10T00:00:00Z"
 doi: "10.1115/1.4032505"
 
