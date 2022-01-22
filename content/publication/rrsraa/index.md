@@ -1,5 +1,5 @@
 ---
-title: "Resilient optimal estimation using measurement prior"
+title: "Robust Resilient Signal Reconstruction under Adversarial Attacks"
 authors:
 - Anubi, Olugbenga Moses
 - Lalit Mestha
