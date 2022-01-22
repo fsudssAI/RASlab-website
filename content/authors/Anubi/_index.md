@@ -7,7 +7,7 @@ authors:
 - Olugbenga Moses Anubi
 
 # Is this the primary user of the site?
-superuser: false
+superuser: true
 
 # Role/position
 role: Assistant Professor
@@ -42,8 +42,8 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'oanubi@fsu.edu'
-- icon: external-link-alt
-  icon_pack: fab
+- icon: fa-blog
+  icon_pack: fas
   link: https://web1.eng.famu.fsu.edu/~anubi/index.html
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
