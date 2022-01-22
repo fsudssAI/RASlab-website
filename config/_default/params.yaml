@@ -105,7 +105,7 @@ comments:
   commento:
     url: ''
 search:
-  provider: wowchemy
+  provider: raslab   # wowchemy
   algolia:
     app_id: ''
     api_key: ''
