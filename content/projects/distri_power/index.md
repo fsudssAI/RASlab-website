@@ -1,5 +1,5 @@
 ---
-title: Distributed systems
+title: Distributed Systems
 
 event:
 event_url:
