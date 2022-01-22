@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted to *IEEE Transactions on Industrial Informatics 16.1 (2019): 639-647*
+publication: Submitted to *IEEE Transactions on Industrial Informatics*
 publication_short: In *TII*
 
 abstract: This paper considers the problem of resiliency in the state estimation of a cyber-physical system when a portion of its sensor measurements contains malicious data added by an adversarial attacker. When the attack consists of arbitrary random uncorrelated data injection, compressive-sensing-based regression algorithms that can recover the true states have been studied extensively in the literature. However, it has been shown that it is possible to create a targeted correlated false data injection attack (FDIA), which will fool any regression-based algorithm. Consequently, there have been a plethora of data-driven approaches investigated to detect the occurrence of such an FDIA. This paper combines a data-driven model with the traditional compressive sensing regression problem. It is shown that the solution of the resulting constrained optimization problem recovers the true states of the system. The developed algorithm is evaluated through a numerical simulation example of the IEEE 14-bus system mapped to the New York Independent System Operator grid data.
