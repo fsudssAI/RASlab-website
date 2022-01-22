@@ -19,4 +19,4 @@ design:
 
 <br>
 
-The **RAS Lab** provides education and researching opportunities in multiple areas: Cyber-physical system security, Autonomous system (self-driving vehicle), Distribution systems, Optimization.
+The **RAS Lab** provides education and researching opportunities in multiple areas: Cyber-physical system security, Autonomous system (self-driving vehicle), Distribution systems, Optimization and Machine/Deep learning.
