@@ -1,5 +1,5 @@
 ---
-title: Cyber-Physical System Security
+title: Resilient Control Systems
 
 event: 
 event_url: 
