@@ -1,5 +1,5 @@
 ---
-title: Distributed Power systems
+title: Distributed systems
 
 event:
 event_url:
