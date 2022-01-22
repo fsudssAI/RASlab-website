@@ -19,4 +19,8 @@ design:
 
 <br>
 
-The **RAS Lab** provides education and researching opportunities in multiple areas: Cyber-physical system security, Autonomous system (self-driving vehicle), Distribution systems, Optimization and Machine/Deep learning.
+The **RAS Lab** is rooted in dynamics and control, targetting both on theoritical researches and real-life chanllenges. It provides education and researching opportunities in multiple areas: 
+- Resilient Control systems (i.e. cyber-physical system security)
+- Autonomous systems (i.e. self-driving vehicle)
+- Distribution Systems (i.e. energy management system)
+- Optimization and Deep Learning (i.e. collaborative learning)
