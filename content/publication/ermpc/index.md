@@ -1,5 +1,5 @@
 ---
-title: "Resilient optimal estimation using measurement prior"
+title: "Energy-regenerative model predictive control"
 authors:
 - Anubi, Olugbenga Moses
 - Layne Clemen
