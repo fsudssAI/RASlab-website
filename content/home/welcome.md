@@ -22,5 +22,5 @@ design:
 The **RAS Lab** is rooted in dynamics, control and optimization, targetting both on theoritical researches and real-life chanllenges. It provides education and research opportunities in multiple areas: 
 - Resilient Control systems (i.e. cyber-physical system security)
 - Autonomous systems (i.e. self-driving vehicle)
-- Distribution Systems (i.e. energy management system)
+- Distributed Systems (i.e. energy management system)
 - Optimization and Deep Learning (i.e. collaborative learning)
