@@ -5,7 +5,7 @@ authors:
 - Charalambos Konstantinou
 - Roberts, Rodney
 date: "2019-07-30T00:00:00Z"
-doi: "10.1109/TII.2019.2924246"
+doi: "	arXiv:1907.13102"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
