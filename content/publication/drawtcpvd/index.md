@@ -1,5 +1,5 @@
 ---
-title: "Development of realizable and adaptive wheel torque allocation for the control of planar vehicle dynamicsVarnhagen, Scott"
+title: "Development of realizable and adaptive wheel torque allocation for the control of planar vehicle dynamics"
 authors:
 - Varnhagen, Scott
 - Olugbenga Moses Anubi 
