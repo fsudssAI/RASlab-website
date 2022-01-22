@@ -4,8 +4,8 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: RAS Lab # Website name
-baseurl: '' # Website URL
-copyright: '' # Footer text, e.g. '© {year} Me'
+baseurl: 'https://raslab.netlify.app/' # Website URL
+copyright: '© {2022} RasLab' # Footer text, e.g. '© {year} Me'
 
 ############################
 ## LANGUAGE
