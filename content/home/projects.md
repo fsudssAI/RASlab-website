@@ -7,6 +7,19 @@ widget: portfolio  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 25  # Order that this section will appear.
 title: Researches
+
+content:
+  count: 5
+  filters:
+    author: ""
+    category: ""
+    exclude_featured: true
+    publication_type: ""
+    tag: ""
+  offset: 0
+  order: desc
+  page_type: projects
+
 design:
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
