@@ -66,7 +66,7 @@ Example cyber threats in the history:
 - In 2015, 25 cyber attacks were disclosed in several water systems;
 - In 2020, a malicious cyber-attack attempted to raise the chlorine level in Israel’s water supply to dangerous proportion ……
 
-## Cocurrent Modeling for CPS
+## Concurrent Modeling for CPS
 ![CPS model](https://user-images.githubusercontent.com/72170474/150700418-b937c2ad-bdd6-40a1-915c-375ea4826afa.png)
 Model is an abstract representation of the construction and operation of the system of interest, and it should not be so complex but be a close approximation to the real system and incorporate most of its salient features. Based on a reliable model, designer could simulate behavior and perform mathematical analysis offline. For security-related aspect of CPS, modeling provides the chance to design and test the system's robustness and resilience to disturbance, faults, and malicious attacks without exposing a real physical plant to such threats. 
 
@@ -75,7 +75,7 @@ Model is an abstract representation of the construction and operation of the sys
 Security is defined as an ability to place resilience on provided services under malicious attacks. Unlike the traditional attacks on computer system which occurs only in cyber layer, the attacks in CPS would be designed subtly to affect both cyber and physical parts.
 
 ## Attack Generation
-Than an attack is seen to be successful or not depends on its effectiveness and stealthiness. 
+That an attack is seen to be successful or not depends on its effectiveness and stealthiness. 
 ![GAN-based attack generation](https://user-images.githubusercontent.com/72170474/150701139-7ec29353-d0d3-41c6-80c5-eea68ed01f48.png)
 
 Relevant paper: 
@@ -95,7 +95,7 @@ Relevant paper:
 - [Approach B: Algorithm Design for Resilient Cyber-Physical Systems using an Automated Attack Generative Model](https://raslab.netlify.app/publication/adrcpsaag/)
 
 ## Cocurrent Learning and Resilient Estimation
-Traditional attack-resilient observer designs, such as L1 decoder, event-trigger luenberger observer…, require half of measurements to be clean.<br>
+Traditional attack-resilient observer designs (such as L1 decoder, event-trigger luenberger observer…) require half of measurements to be clean.<br>
 Cocurrent Learning and Resilient Estimation (CLRE) is an approach combining learning-based prior information with resilient estimation design in order to improve system's resiliency.
 Relevant paper: 
 - [Enhanced resilient state estimation using data-driven auxiliary models](https://raslab.netlify.app/publication/erseddam/)
