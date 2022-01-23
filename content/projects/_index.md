@@ -1,6 +1,6 @@
 ---
+type: widget_page
 title: Researches
-view: 10
 
 # View.
 #   1 = List
