@@ -1,5 +1,6 @@
 ---
 title: Researches
+view: 10
 
 # View.
 #   1 = List
@@ -7,7 +8,6 @@ title: Researches
 #   3 = Card
 view: 1
 
-# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
