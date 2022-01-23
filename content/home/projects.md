@@ -9,7 +9,7 @@ weight: 25  # Order that this section will appear.
 title: Researches
 
 content:
-  count: 5
+  count: 10
   filters:
     author: ""
     category: ""
