@@ -53,5 +53,14 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+## Acknowledgement: 
+This research is partial supported by 
+- U.S. Naval Research Laboratory ([AI-Track-at-sea](https://www.eng.famu.fsu.edu/news/tracks-at-sea-2021))
+- Florida State University
+- Center for Advanced Power sysetms
 
+## Image-based Real-world Localization
+Luscio system is a 
 
+## Robust Motion Control and Estimation
+ [youtube 7Oz_TR-duHE]
