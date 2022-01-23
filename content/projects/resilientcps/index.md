@@ -12,7 +12,7 @@ address:
   postcode: 
   country:
 
-summary: Cyber-physical system (CPS) is a relatively young area of research, with the term itself only recently coined in 2006 by the National Science Foundation (NSF) to refer to the tight conjoining of and coordination between computational and physical resources. The seamless integration of computation, networking and physical components is a main characteristic of CPS but also enables malicious agents chances to inject attacks. As advances continue to be made in computation and networking technologies, the quest to synthesize control laws that meet the necessary resiliency requirements will become even more challenging. This research is focusing on vulnerability analysis, anomaly detection, characterization, and localization, to resilient control and state estimation designs against adversarial targeting.
+summary: Cyber-physical system (CPS) is a new terminology of smart systems referring to the tight conjoining of and coordination between computation, comunication and physical processes. The seamless integration of computation, networking and physical components is a main characteristic of CPS but also enables malicious agents chances to inject attacks. As advances continue to be made in computation and networking technologies, the quest to synthesize control laws that meet the necessary resiliency requirements will become even more challenging. This research is focusing on vulnerability analysis, anomaly detection, characterization, and localization, to resilient control and state estimation designs against adversarial targeting.
 abstract: ""
 
 # Talk start and end times.
