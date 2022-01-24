@@ -3,8 +3,8 @@
 title: Olugbenga Moses Anubi
 
 # Username (this should match the folder name)
-# authors:
-# - Olugbenga Moses Anubi
+authors:
+- Anubi
 
 # Is this the primary user of the site?
 superuser: true
@@ -42,7 +42,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'oanubi@fsu.edu'
-- icon: blog
+- icon: fa-external-link-alt
   icon_pack: fas
   link: https://web1.eng.famu.fsu.edu/~anubi/index.html
 # Link to a PDF of your resume/CV from the About widget.
