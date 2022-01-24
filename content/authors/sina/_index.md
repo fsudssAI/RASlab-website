@@ -4,7 +4,7 @@ title: Sina Ameli
 
 # Username (this should match the folder name)
 authors:
-- Sina Ameli
+- sina
 
 # Is this the primary user of the site?
 superuser: false
