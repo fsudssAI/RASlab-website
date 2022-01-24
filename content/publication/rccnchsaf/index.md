@@ -34,7 +34,7 @@ url_code: ''
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: https://github.com/fsudssAI/starter-hugo-research-group/new/main/content/publication/rccnchsaf/slides.pdf
 url_source: ''
 url_video: ''
 
