@@ -71,5 +71,5 @@ Progresses:
 - Improved the accuracy of localization to 99.7% for indoor training tasks. (2021 fall)
 
 ## Robust Motion Control and Estimation
-A vision-based self-driving car platform is being constructed, including model characterization, parameter estimation, sensor fusion, object detection, robust motion control.
+A vision-based self-driving car platform is being constructed, including model characterization, parameter estimation, sensor fusion, object detection, robust motion control. <br>
 {{< youtube 7Oz_TR-duHE >}}
