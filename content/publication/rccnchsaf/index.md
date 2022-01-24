@@ -13,11 +13,11 @@ publishDate: "2017-01-01T00:00:00Z"
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["2"]
+publication_types: ["1"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted to *IFAC-PapersOnLine*
-publication_short:
+publication: Submitted to *2021 IFAC Modeling, estimation and control conference*
+publication_short: In *MECC*
 
 abstract: This paper proposes an approach to addresses the control challenges posed by a fault-induced uncertainty in both the dynamics and control input effectiveness of a class of hierarchical nonlinear systems in which the high-level dynamics is nonlinearly coupled with a multi-agent low-level dynamics. The high-level dynamics has a multiplicative uncertainty in the control input effectiveness and is subjected to an exogenous disturbance input. On the other hand, the low-level system is subjected to actuator faults causing a time-varying multiplicative uncertainty in the dynamical model and associated control effectiveness. Moreover, the nonlinear coupling between the high-level and the low-level dynamics makes the problem even more challenging. To address this problem, an online parameter estimation algorithm is designed, coupled with an adaptive splitting mechanism which automatically distributes the control action among low level multi-agent systems. A nonlinear L2-gain-based controller, and then a state-feedback controller are designed in the high-level, and the low-level, respectively, to recover the system from faults with high performance in the transient response, and reject the exogenous disturbance. The resulting analysis guarantees a robust tracking of the high-level reference command signal.
 
