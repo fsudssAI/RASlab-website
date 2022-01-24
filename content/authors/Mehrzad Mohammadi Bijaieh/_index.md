@@ -4,7 +4,7 @@ title: Mehrzad Mohammadi Bijaieh
 
 # Username (this should match the folder name)
 authors:
-- Mehrzad Mohammadi Bijaieh
+- Bijaieh
 
 # Is this the primary user of the site?
 superuser: false
