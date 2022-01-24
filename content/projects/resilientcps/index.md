@@ -54,7 +54,7 @@ slides:
 projects:
 ---
 ## Acknowledgement: 
-This research is partial supported by 
+This research is supported by 
 - Department of Energy ([CX-021036: REDCS](https://www.energy.gov/nepa/downloads/cx-021036-resilient-energy-delivery-and-control-systems-redcs)) under Award Number DE-CR0000005.
 - Florida State University
 - Center for Advanced Power sysetms
