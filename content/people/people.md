@@ -7,7 +7,7 @@ widget: people
 headless: true
 
 # Order that this section appears on the page.
-weight: 70
+weight: 68
 
 title: Meet the Team
 subtitle:
@@ -17,13 +17,13 @@ content:
   #   Edit `user_groups` in each user's profile to add them to one or more of these groups.
   user_groups:
   - Principal Investigators
-  # - Researchers
+  - Researchers
   - Grad Students
-  # - Administration
-  # - Visitors
+  - Administration
+  - Visitors
   - Alumni
 design:
-  show_interests: true
+  show_interests: false
   show_role: true
   show_social: true
   
