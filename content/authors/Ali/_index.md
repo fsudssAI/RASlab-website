@@ -4,7 +4,7 @@ title: Ali Sayghe
 
 # Username (this should match the folder name)
 authors:
-- Ali Sayghe
+- Ali
 
 # Is this the primary user of the site?
 superuser: false
