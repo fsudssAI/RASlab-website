@@ -127,3 +127,6 @@ cms:
 icon:
   pack:
     ai: true
+    fas: true
+    fab: true
+    custom: true
