@@ -4,7 +4,7 @@ title: Tarik Hawsawi
 
 # Username (this should match the folder name)
 authors:
-- Tarik Hawsawi
+- Tarik
 
 # Is this the primary user of the site?
 superuser: false
