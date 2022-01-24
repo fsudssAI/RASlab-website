@@ -60,10 +60,16 @@ This research is partial supported by
 - Center for Advanced Power sysetms
 
 ## Overview
-The self-driving vehicle platform includes vison-based lane detection, learning-based object detection, image-based real-world localization, robust motion control and estimation. The self-driving platform is built on a 1/10 vehicle (MicroNole) and a full-size van (AutoNole).
+The self-driving vehicle platform includes vison-based lane detection, learning-based object detection, image-based real-world localization, robust motion control and estimation. The self-driving platform is built on a 1/10-scale vehicle (MicroNole) and a full-size van (AutoNole).
 
 ## Image-based Real-world Localization
-Luscio system is a 
+Luscio system is a multi-Model learning system for smooth Georeferenced Tracking from an Uncalibrated Monocular Camera. 
+![Luscio](https://user-images.githubusercontent.com/36635562/150834501-0bce5931-1f70-43e1-b626-de4864cffa22.png)
+
+Progresses:
+- Won 2nd place in Navy AI-Track-at-sea competition (aacuracy: 57%). (2020 fall)
+- Improved the accuracy of localization to 99.7% for indoor training tasks. (2021 fall)
 
 ## Robust Motion Control and Estimation
+A vision-based self-driving car platform is being constructed, including model characterization, parameter estimation, sensor fusion, object detection, robust motion control.
 {{< youtube 7Oz_TR-duHE >}}
