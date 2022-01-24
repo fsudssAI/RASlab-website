@@ -67,7 +67,7 @@ Integration of modern defense weapons into ship power systems poses a challenge 
 Stringent regulations on environmental emissions such as Paris climate accord and fears of extinction of oil and natural gases in near future led the automobile industry to focus on manufacturing more alternate energy dependent, efficient and environmentally clean vehicles. This has resulted in emergence of HEVs and EVs. Currently the distributed group is focusing on developing an EM strategy for HEVs. Optimal Energy management (EM) between engine and battery plays pivotal role in enhancing the fuel efficiency of HEV. The current goal is to design an energy efficient distributed control algorithm while considering the battery degradation characteristics. The Image shown below depicts the idea of a distributed control on HEV.
 ![image](https://user-images.githubusercontent.com/36635562/150829608-633f4ae4-aa51-4d62-be9c-1462800c7843.png)
 
-Relevant Papers:
+**Relevant Papers**:
 - [Model and Load Predictive Control for Design and Energy Management of Shipboard Power Systems](https://raslab.netlify.app/publication/mlpcdemsps/)
 - [Low-bandwidth Modular Mathematical Modeling of DC Microgrid Systems for Control Development with Application to Shipboard Power Systems](https://raslab.netlify.app/publication/lmmmsdcmgsps/)
 - [Degradation Aware Predictive Energy Management Strategy for Ship Power Systems](https://raslab.netlify.app/publication/dapemssps/)
