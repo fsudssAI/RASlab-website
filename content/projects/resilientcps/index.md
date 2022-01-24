@@ -96,7 +96,7 @@ Relevant paper:
 
 ## Cocurrent Learning and Resilient Estimation
 Traditional attack-resilient observer designs (such as L1 decoder, event-trigger luenberger observer…) require half of measurements to be clean.<br>
-Cocurrent Learning and Resilient Estimation (CLRE) is an approach combining learning-based prior information with resilient estimation design in order to improve system's resiliency.
+Cocurrent Learning and Resilient Estimation (CLRE) is an approach combining learning-based prior information with resilient estimation design in order to improve system's resiliency.<br>
 Relevant paper: 
 - [Enhanced resilient state estimation using data-driven auxiliary models](https://raslab.netlify.app/publication/erseddam/)
 - [Multi-Model Resilient Observer under False Data Injection Attacks](https://raslab.netlify.app/publication/mmrofdia/)
@@ -105,7 +105,7 @@ Relevant paper:
 - [Robust Resilient Signal Reconstruction under Adversarial Attacks](https://raslab.netlify.app/publication/rrsraa/)
 
 ## Adversary Machine Learning
-In order to protect against cyber attacks, several machine learning algorithms have been proposed for attack detection and identification. However, such methods are susceptible to adversarial examples which could significantly reduce their detection accuracy. 
+In order to protect against cyber attacks, several machine learning algorithms have been proposed for attack detection and identification. However, such methods are susceptible to adversarial examples which could significantly reduce their detection accuracy. <br>
 Relevant paper: 
 - [Evasion attacks with adversarial deep learning against power system state estimation](https://raslab.netlify.app/publication/eaadlpsse/)
 
