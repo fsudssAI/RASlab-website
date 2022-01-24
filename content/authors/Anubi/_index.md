@@ -3,8 +3,8 @@
 title: Olugbenga Moses Anubi
 
 # Username (this should match the folder name)
-authors:
-- Olugbenga Moses Anubi
+# authors:
+# - Olugbenga Moses Anubi
 
 # Is this the primary user of the site?
 superuser: true
@@ -61,8 +61,6 @@ user_groups:
 ---
 
 
-Olugbenga M. Anubi is an Assistant Professor of Electrical and Computer Engineering, a faculty member of the Center for Advanced Power Systems (CAPS) and a director of the Resilient and Autonomous systems Lab at the Florida State University.
-
-Dr. Anubi obtained a B.Sc (First Class Honors) in Systems Enginerring from the University of Lagos, Nigeria. He received a Ph.D in Mechanical Engineering with a minor in Mathematics from the University of Florida, Gainesville. He was a postdoctoral scholar with the Hyundai Center of Excellence in Vehicle Dynamics and Control at the University of California, Davis.
-
+Olugbenga M. Anubi is an Assistant Professor of Electrical and Computer Engineering, a faculty member of the Center for Advanced Power Systems (CAPS) and a director of the Resilient and Autonomous systems Lab at the Florida State University.<br>
+Dr. Anubi obtained a B.Sc (First Class Honors) in Systems Enginerring from the University of Lagos, Nigeria. He received a Ph.D in Mechanical Engineering with a minor in Mathematics from the University of Florida, Gainesville. He was a postdoctoral scholar with the Hyundai Center of Excellence in Vehicle Dynamics and Control at the University of California, Davis.<br>
 Prior to joining FSU, Dr. Anubi spent three years in the industry working at the GE Global Research (GE-GRC) where he was a Lead Control Systems Engineer and heavily involved in research activities on real-time optimization and control with applications to power generation, and cyber-security. His work within GE resulted in 12 Patent Applications and several recognitions including the GE Technology Award (Physical+Digital), the Connected Controls Technical Achievement Award, the Whitney Award and the Dushman Technology Award.
