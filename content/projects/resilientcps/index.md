@@ -78,7 +78,7 @@ Security is defined as an ability to place resilience on provided services under
 That an attack is seen to be successful or not depends on its effectiveness and stealthiness. 
 ![GAN-based attack generation](https://user-images.githubusercontent.com/72170474/150701139-7ec29353-d0d3-41c6-80c5-eea68ed01f48.png)
 
-Relevant paper: 
+**Relevant paper**: 
 - [Data-driven approach: Algorithm Design for Resilient Cyber-Physical Systems using an Automated Attack Generative Model](https://raslab.netlify.app/publication/adrcpsaag/)
 - [Model-based approach 1: Attack-Resilient Weighted L1 Observer with Prior Pruning](https://raslab.netlify.app/publication/arl1ofdia/)
 - [Model-based approach 2: under review]()
@@ -89,7 +89,7 @@ Several directions of this researches could be conducted:
 - A: Learn the nominal characterization of system, create an additional secure detetion layer that is hidden from attacker;
 - B: Learn the characterization of attacks.
 
-Relevant paper: 
+**Relevant paper**: 
 - [Approach A: Enhanced resilient state estimation using data-driven auxiliary models](https://raslab.netlify.app/publication/erseddam/)
 - [Approach A: Resilient Observer Design for Cyber-Physical Systems with Data-Driven Measurement Pruning](https://raslab.netlify.app/publication/rodcpsddmp/)
 - [Approach B: Algorithm Design for Resilient Cyber-Physical Systems using an Automated Attack Generative Model](https://raslab.netlify.app/publication/adrcpsaag/)
@@ -97,7 +97,7 @@ Relevant paper:
 ## Cocurrent Learning and Resilient Estimation
 Traditional attack-resilient observer designs (such as L1 decoder, event-trigger luenberger observer…) require half of measurements to be clean.<br>
 Cocurrent Learning and Resilient Estimation (CLRE) is an approach combining learning-based prior information with resilient estimation design in order to improve system's resiliency.<br>
-Relevant paper: 
+**Relevant paper**: 
 - [Enhanced resilient state estimation using data-driven auxiliary models](https://raslab.netlify.app/publication/erseddam/)
 - [Multi-Model Resilient Observer under False Data Injection Attacks](https://raslab.netlify.app/publication/mmrofdia/)
 - [Attack-Resilient Weighted L1 Observer with Prior Pruning](https://raslab.netlify.app/publication/arl1ofdia/)
@@ -112,14 +112,16 @@ Relevant paper:
 ## Applications
 ### Resilient Energy Delivery and Control Systems (REDCS)
 ![REDCS](https://user-images.githubusercontent.com/72170474/150701660-4f0b5fef-0628-4d11-a9db-065759e30b7a.png)
-Relevant paper: 
+**Relevant paper**: 
 - [Algorithm Design for Resilient Cyber-Physical Systems using an Automated Attack Generative Model](https://raslab.netlify.app/publication/adrcpsaag/)
+- 
 ### Resilient robot motion control system
 ![image](https://user-images.githubusercontent.com/72170474/150701939-1f52353c-f62c-4536-87ff-aeefa6a0862f.png)
-Relevant paper: 
+**Relevant paper**: 
 - [Attack-Resilient Observer Pruning for Path-Tracking Control of Wheeled Mobile Robot](https://raslab.netlify.app/publication/aropptcwmr/)
+- 
 ### Resilient water distribution system
 ![image](https://user-images.githubusercontent.com/72170474/150701940-4bac0d8a-689c-414d-b59d-ebda9d5e540e.png)
-Relevant paper: 
+**Relevant paper**: 
 - [Algorithm Design for Resilient Cyber-Physical Systems using an Automated Attack Generative Model](https://raslab.netlify.app/publication/adrcpsaag/)
 - [Resilient Observer Design for Cyber-Physical Systems with Data-Driven Measurement Pruning](https://raslab.netlify.app/publication/rodcpsddmp/)
