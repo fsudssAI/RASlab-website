@@ -59,6 +59,9 @@ This research is partial supported by
 - Florida State University
 - Center for Advanced Power sysetms
 
+## Overview
+The self-driving vehicle platform includes vison-based lane detection, learning-based object detection, image-based real-world localization, robust motion control and estimation. The self-driving platform is built on a 1/10 vehicle (MicroNole) and a full-size van (AutoNole).
+
 ## Image-based Real-world Localization
 Luscio system is a 
 
