@@ -42,7 +42,7 @@ social:
 - icon: envelope
   icon_pack: fas
   link: 'oanubi@fsu.edu'
-- icon: fa-external-link-alt
+- icon: external-link-alt
   icon_pack: fas
   link: https://web1.eng.famu.fsu.edu/~anubi/index.html
 # Link to a PDF of your resume/CV from the About widget.
