@@ -65,7 +65,7 @@ projects:
 - The plug-and-play framework increase scalability and resiliency to extreme events, including the complete loss of agents.
 
 ## Relevant paper
-[Large-Scale Resilient Collaborative Machine Learning](https://raslab.netlify.app/publication/lsrcml/)
-[Concurrent Learning Adaptive Model Predictive Control with Pseudospectral Implementation](https://raslab.netlify.app/publication/clampcpi/)
-[Robust_Consensus Control for Leader-follower Networked System](https://github.com/ZYblend/Robust-Consensus-Control/blob/main/Robust_Consensus_formation_control.pdf)
+- [Large-Scale Resilient Collaborative Machine Learning](https://raslab.netlify.app/publication/lsrcml/) 
+- [Concurrent Learning Adaptive Model Predictive Control with Pseudospectral Implementation](https://raslab.netlify.app/publication/clampcpi/)
+- [Robust_Consensus Control for Leader-follower Networked System](https://github.com/ZYblend/Robust-Consensus-Control/blob/main/Robust_Consensus_formation_control.pdf)
 
