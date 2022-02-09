@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Resilient Control Systems
 
 event: 
