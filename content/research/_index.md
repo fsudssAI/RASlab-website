@@ -37,7 +37,7 @@ design:
 
 ## <span style="color: blue;font-weight:bold">Distributed Systems</span>
 **Sponsor**: Office of Naval Research<br>
-![image](https://user-images.githubusercontent.com/72170474/153112813-eed9c983-e543-40b1-9648-831a172eab07.png)<br>
+![image](https://user-images.githubusercontent.com/72170474/153114224-0f91cec9-b8f4-4217-98f4-1fa7bb18e5e4.png)<br>
 **Project Description**:A distributed system is a computing environment in which various components are spread across multiple computers (or other computing devices) on a network. These devices split up the work, coordinating their efforts to complete the job more efficiently than if a single device had been responsible for the task. The important properties studied in distributed systems include Scalability, Concurrency, Availability/fault tolerance, Transparency, Heterogeneity, Replication ......[More](https://raslab.netlify.app/projects/distri_power/)
  
 ## <span style="color: blue;font-weight:bold">Collaborative Learning</span>
