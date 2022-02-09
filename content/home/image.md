@@ -3,11 +3,11 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: About us
+title:Partners
 subtitle:
-weight: 30  # section position on page
+weight: 12  # section position on page
 design:
-  columns: '1'
+  columns: '2'
 ---
 
-{{< figure src="album.png" caption="" theme="light"  float= "center" width= "150%" >}}
+{{< figure src="parterners.png" caption="" theme="light"  float= "center" width= "150%" >}}
