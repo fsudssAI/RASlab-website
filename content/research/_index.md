@@ -1,7 +1,7 @@
 ---
 widget: featured
 headless: true  # This file represents a page section.
-header-includes: \usepackage{xcolor}
+
 title: Projects
 # ... Put Your Section Options Here (title etc.) ...
 
@@ -25,7 +25,7 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
-## \textcolor{green}{Resilient Control Systems}
+## <span style="color: red;">Resilient Control Systems</span>
 **Sponsor**: Department of Energy; GE Global Research <br>
 ![featured](https://user-images.githubusercontent.com/72170474/153111274-fd5a581f-b9f7-47d6-9767-fa8b59e92765.png) <br>
 **Project Description**: Cyber-physical system (CPS) is a new terminology of smart systems referring to the tight conjoining of and coordination between computation, comunication and physical processes.In increasingly serious adversary environment, the quest to synthesize control laws that meet the necessary resiliency requirements will become even more challenging. This research is focusing on vulnerability analysis, anomaly detection, characterization, and localization, to resilient control and state estimation designs against adversarial targeting ...... [More](https://raslab.netlify.app/projects/resilientcps/)
