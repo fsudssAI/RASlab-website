@@ -8,7 +8,8 @@ headless: true  # This file represents a page section.
 weight: 10  # Order that this section will appear.
 title: |
   Resilient & Autonomous Systems Lab
-hero_media: 'logos.png'
+hero_media: ''
+# hero_media: 'logos.png'
 design:
   background:
     # Name of image in `assets/media/`.
