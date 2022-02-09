@@ -24,4 +24,5 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+## Resilient
  [more](https://raslab.netlify.app/projects/autocontrol/)
