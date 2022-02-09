@@ -1,5 +1,6 @@
 ---
-title: Researches
+widget: featured
+title: projects
 
 # View.
 #   1 = List
