@@ -2,9 +2,11 @@
 layout: home
 title: Resilient & Autonomous Systems Lab
 subtitle: Physics-Data Driven
+
+weight: 10  # Order that this section will appear.
 cover-img:
-  - "albums/fsu.jpg" : FSU, Tallahassee
-  - "album/qbot.jpg" : qbot
+  - "assets/media/albums/fsu.jpg" : FSU, Tallahassee
+  - "assets/media/album/qbot.jpg" : qbot
 
 ---
 
