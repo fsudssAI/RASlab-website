@@ -25,5 +25,5 @@ content:
 design:
   # Toggle between the various page layout types. 
   view: compact
-  columns: '1'
+  columns: '2'
 ---
