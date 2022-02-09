@@ -24,6 +24,6 @@ content:
   order: desc
 design:
   # Toggle between the various page layout types. 
-  view: compact
-  columns: '2'
+  view: card
+  columns: '1'
 ---
