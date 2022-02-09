@@ -1,3 +1,4 @@
+---
 widget: pages
 headless: true  # This file represents a page section.
 title: Projects
@@ -25,3 +26,4 @@ design:
   # Toggle between the various page layout types. 
   view: compact
   columns: '1'
+---
