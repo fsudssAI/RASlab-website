@@ -24,3 +24,4 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+ [more](https://raslab.netlify.app/projects/autocontrol/)
