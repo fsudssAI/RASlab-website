@@ -17,4 +17,4 @@ design:
   css_class:
 ---
 <br>
-{{< video library="true" src="lab_display.mp4" controls="yes" loop="yes" >}}
+{{< video library="true" src="lab_display.mp4" controls="yes" autoplay loop >}}
