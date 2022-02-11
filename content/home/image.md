@@ -3,7 +3,7 @@ widget: blank
 headless: true
 
 # ... Put Your Section Options Here (title etc.) ...
-title: Partners
+title: ''
 subtitle:
 weight: 12  # section position on page
 design:
