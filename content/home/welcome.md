@@ -16,6 +16,6 @@ design:
   css_style:
   css_class:
 ---
-<P align="center">RESILIENT AND AUTONOMOUS SYSTEMS LAB</p>
+<P align="center" >RESILIENT AND AUTONOMOUS SYSTEMS LAB</p>
 <br>
 {{< video library="true" src="lab_display.mp4" controls="yes" autoplay="yes" loop="yes" >}}
