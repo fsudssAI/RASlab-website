@@ -25,6 +25,7 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
+
 ## <span style="color: #0a7ed1;font-weight:bold">Resilient Control Systems</span>
 **Sponsor**: Department of Energy; GE Global Research <br>
 <p align="center">
