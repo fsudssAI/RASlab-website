@@ -6,7 +6,7 @@
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 5  # Order that this section will appear.
-title:  RASLab
+title:
 # hero_media: ''
 # hero_media: 'logos.png'
 design:    
@@ -16,7 +16,9 @@ design:
   css_style:
   css_class:
 ---
-<P align="center" >RESILIENT AND AUTONOMOUS SYSTEMS LAB</p>
+<P style="font-family:Times New Roman; color:Blue; font-size: 20px;" align="center">
+RESILIENT AND AUTONOMOUS SYSTEMS LAB 
+  </p>
 <br>
 
 {{< video library="true" src="lab_display.mp4" controls="yes" width="100%" autoplay="yes" loop="yes" >}}
