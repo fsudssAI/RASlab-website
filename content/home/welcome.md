@@ -17,6 +17,7 @@ design:
   css_class:
 ---
 <br>
+
 <video controls loop>
   <source src="lab_display.mp4" type="video/mp4">
 </video>
