@@ -14,21 +14,21 @@ item:
     # Choose `center`, `left`, or `right` alignment.
     align: center
     overlay_color: '#666'  # An HTML color value.
-    overlay_img: albums/MicroNole.gif  # Image path relative to your `assets/media/` folder
+    overlay_img: 'albums/MicroNole.gif' 
     overlay_filter: 0.5  # Darken the image. Value in range 0-1.
 
   - title:  Resilient & Autonomous Systems Lab
     content: 
     align: center
     overlay_color: '#555'
-    overlay_img: albums/dg1.gif
+    overlay_img: 'albums/dg1.gif'
     overlay_filter: 0.5
     
   - title:  Resilient & Autonomous Systems Lab
     content: 
     align: center
     overlay_color: '#333'
-    overlay_img: albums/self_driving.png
+    overlay_img: 'albums/self_driving.png'
     overlay_filter: 0.5
 ---
 
