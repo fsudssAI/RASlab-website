@@ -16,4 +16,4 @@ design:
   css_style:
   css_class:
 ---
-{{< video library="true" src="lab_display.mp4" controls="yes" >}}
+{{< video library="true" src="lab_display.mp4" controls="no" >}}
