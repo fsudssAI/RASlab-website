@@ -13,7 +13,7 @@ address:
   postcode:
   country:
 
-summary: Distributed wind turbine control, distributed power management.
+summary: A distributed system is a computing environment in which various components are spread across multiple computers (or other computing devices) on a network. These devices split up the work, coordinating their efforts to complete the job more efficiently than if a single device had been responsible for the task. The important properties studied in distributed systems include Scalability, Concurrency, Availability/fault tolerance, Transparency, Heterogeneity, Replication.
 abstract: ""
 
 # Talk start and end times.
