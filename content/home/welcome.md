@@ -16,7 +16,7 @@ design:
   css_style:
   css_class:
 ---
-<P style="font-family:Times New Roman; color:Blue; font-size: 20px;" align="center">
+<P style="font-family:Times New Roman; color:Blue; font-size: 20px; " align="center">
 RESILIENT AND AUTONOMOUS SYSTEMS LAB 
   </p>
 <br>
