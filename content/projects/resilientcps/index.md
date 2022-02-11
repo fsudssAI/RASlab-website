@@ -54,6 +54,7 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+
 ## Acknowledgement: 
 This research is supported by 
 - Department of Energy ([CX-021036: REDCS](https://www.energy.gov/nepa/downloads/cx-021036-resilient-energy-delivery-and-control-systems-redcs)) under Award Number DE-CR0000005.
