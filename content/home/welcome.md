@@ -6,7 +6,7 @@
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 5  # Order that this section will appear.
-title:  
+title:  RASLab
 # hero_media: ''
 # hero_media: 'logos.png'
 design:    
