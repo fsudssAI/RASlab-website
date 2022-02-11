@@ -5,8 +5,8 @@
 
 widget: portfolio  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-weight: 15  # Order that this section will appear.
-title: Projects
+weight: 8  # Order that this section will appear.
+title: ''
 
 content:
   count: 10
