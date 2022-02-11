@@ -13,7 +13,7 @@ address:
   postcode:
   country:
 
-summary: Nowadays, the huge amount of data are often generated at geographically dispersed edge locations, each capturing only a portion of the global phenomenon of interestCollaborative learning. Collaborative learning is a solution for simultaneously training all models efficiently using all datasets without violating privacy requirements and provide resiliency against bad actors.
+summary: The past few decades have seen a tremendous increase in the volume and complexity of data generated in scientific discovery processes. Moreover, due to the rapid growth in internet and networking technology, it is now common for these experiments to be composed of geographically dispersed components. Each of the components generates and stores a huge dataset which captures only a portion of the global phenomenon in question. This poses a tremendous challenge for data analysis, even with the most advanced Machine Learning/ AI methods. The state-of-the-art approaches to this problem involve either routing data to a trusted central location where the learning task takes place or iteratively performing the learning task over the dispersed data sources. However, in addition to low efficiency issues and high cost, there is often a single point of failure, resulting in low resiliency to faults and adversarial targeting.
 abstract: ""
 
 # Talk start and end times.
