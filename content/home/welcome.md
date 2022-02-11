@@ -17,4 +17,6 @@ design:
   css_class:
 ---
 <br>
-{{< video library="true" src="lab_display.mp4" controls="yes" autoplay="yes" >}}
+<video controls loop>
+  <source src="lab_display.mp4" type="video/mp4">
+</video>
