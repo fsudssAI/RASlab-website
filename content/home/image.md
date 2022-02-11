@@ -10,4 +10,4 @@ design:
   columns: '2'
 ---
 
-{{< figure src="parterners.png" caption="" theme="light"  float= "center" width= "150%" >}}
+{{< figure src="partners_total.png" caption="" theme="light"  float= "center" width= "150%" >}}
