@@ -19,5 +19,5 @@ design:
 <br>
 
 <video controls loop>
-  <source src="lab_display.mp4" type="video/mp4">
+  <source src="/assets/media/lab_display.mp4" type="video/mp4">
 </video>
