@@ -18,4 +18,5 @@ design:
 ---
 <P align="center" >RESILIENT AND AUTONOMOUS SYSTEMS LAB</p>
 <br>
-{{< video library="true" src="lab_display.mp4" controls="yes" autoplay="yes" loop="yes" >}}
+
+{{< video library="true" src="lab_display.mp4" controls="yes" width="320" autoplay="yes" loop="yes" >}}
