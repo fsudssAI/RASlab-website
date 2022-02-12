@@ -21,5 +21,5 @@ design:
   </p>
 <br>
 
-<video autoplay="autoplay" loop="loop" controls="controls" width="640" height="360">
+<video library="true" autoplay="autoplay" loop="loop" controls="controls" width="640" height="360">
     <source src="/assets/media/lab_display.mp4" type="video/mp4"></video>
