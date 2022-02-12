@@ -21,4 +21,4 @@ design:
   </p>
 <br>
 
-{{< video library="true" src="lab_display.mp4" controls="yes" width="100%" autoplay="yes" loop="yes" >}}
+{{< video library="true" src="lab_display.mp4" width="100%" autoplay="yes" loop="yes" controls="yes">}}
