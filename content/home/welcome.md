@@ -32,7 +32,7 @@ design:
   css_style:
   css_class:
 ---
-<P style="font-family:Verdana; color:white; font-size: 40px; " align="center">
+<P style="font-family:Gill Sans; color:white; font-size: 40px; " align="center">
   <b>RESILIENT AND AUTONOMOUS SYSTEMS LAB </b>
   </p>
   <br>
