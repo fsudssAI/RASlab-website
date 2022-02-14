@@ -24,7 +24,9 @@ design:
     image_parallax: false
     # Text color (true=light, false=dark, or remove for the dynamic theme color).
     text_color_light: true
-  height: '200%'
+  spacing:
+    # Customize the section spacing. Order is top, right, bottom, left.
+    padding: ["200px", "0", "200px", "0"]
   # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '1'
   # Add custom styles
