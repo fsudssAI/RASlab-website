@@ -56,14 +56,18 @@ projects:
 ---
 ## Resilient Collaborative Machine Learning via Network-aware Knowledge Consensus
 ![concepts](https://user-images.githubusercontent.com/36635562/151391460-fe00b5d0-be13-4452-868e-5ca8623940cd.png)
-#### **Novelty** 
-- Knowledge similarity measure -
+
+### **Novelty** 
+- Knowledge similarity measure
 -  New convergence analysis
 -  Plug-and-play collaborative learning framework 
 - Knowledge support vectors.  <br>
-#### **Advantages** 
+### **Advantages** 
 - Consensus-based learning makes the proposed approach more natural for NTNs, since network communication is adaptive and significantly reduced.
 - The plug-and-play framework increase scalability and resiliency to extreme events, including the complete loss of agents.
+
+### Testbed
+![CL_testbed](https://user-images.githubusercontent.com/36635562/153801601-28bcf4e4-9530-436c-ad60-97e396136f80.png)
 
 ## Relevant paper
 - [Large-Scale Resilient Collaborative Machine Learning](https://raslab.netlify.app/publication/lsrcml/) 
