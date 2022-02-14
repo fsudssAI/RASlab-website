@@ -33,6 +33,6 @@ design:
   css_class:
 ---
 <br>
-<P style="font-family:Verdana; color:Blue; font-size: 30px; " align="center">
+<P style="font-family:Verdana; color:white; font-size: 40px; " align="center">
   <b>RESILIENT AND AUTONOMOUS SYSTEMS LAB </b>
   </p>
