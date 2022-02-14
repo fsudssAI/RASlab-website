@@ -16,7 +16,7 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted to *International journal of robust and nonlinear control*
+publication: Published in *International journal of robust and nonlinear control*
 publication_short: In *IJRNC*
 
 abstract: In this brief, we develop a fault tolerant control (FTC) using a hierarchical-robust methodology with guaranteed stability for a wind turbine (WT), which is subject to an exogenous input, and an actuator fault. The high-level control is designed to robustly compensate for the nonlinearities, uncertainty, and disturbance in the system. The low-level control is designed to robustly automatically allocate control authority among redundant actuators mitigating an actuator fault. At the low-level, the robust control problem is transformed into an equivalent optimal control problem. Finally, the developed FTC is validated using a comprehensive simulation study on a 5MW variable-pitch wind turbine model given in the Fatigue, Aerodynamics, Structures, and Turbulence (FAST) simulator provided by the US National Renewable Energy Laboratory (NREL). The results show that the developed FTC retains robust performance in the presence of wind disturbance, and a time-varying actuator fault.
