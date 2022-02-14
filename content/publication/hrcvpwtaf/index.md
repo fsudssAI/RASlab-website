@@ -1,5 +1,5 @@
 ---
-title: "Algorithm Design for Resilient Cyber-Physical Systems using an Automated Attack Generative Model"
+title: "Hierarchical Robust Control for Variable-pitch Wind Turbine with Actuator Faults"
 authors:
 - Sina Ameli
 - Olugbenga Moses Anubi
