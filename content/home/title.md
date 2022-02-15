@@ -19,4 +19,4 @@ design:
   css_style:
   css_class:
 ---
-<p style="color: #4903fc; font-weight:bold; font-size = 50px" align="center">RESILIENT AND AUTONOMOUS SYSTEMS LAB</p>
+<p style="color: #4903fc; font-weight:bold; font-size = 150px" align="center">RESILIENT AND AUTONOMOUS SYSTEMS LAB</p>
