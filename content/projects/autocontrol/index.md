@@ -68,7 +68,7 @@ Lucio system is a multi-Model learning system for smooth Georeferenced Tracking 
 
 ### Planning and Motion Control
 - **Real-time Mapping and Path Planning**<br>
-Video is loading...
+{{< video library="true" autoplay="autoplay" loop="loop" controls="controls" width="1280" height="640" src="Nolebot_pp.mp4" >}}
 
 - **Path following control** <br>
 A vision-based self-driving car platform is being constructed, including model characterization, parameter estimation, sensor fusion, object detection, optimal path planing, robust motion control. <br>
