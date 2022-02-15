@@ -20,7 +20,7 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 interests:
-- Cyber-Physical Systems: Resilient Estimation and Control
+- Cyber-Physical Systems Resilient Estimation and Control
 - Control Systems
 - Large-scale learning Systems
 - Autonomous systems
