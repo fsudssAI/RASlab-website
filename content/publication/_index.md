@@ -1,5 +1,5 @@
 ---
-title: Publications
+title:
 view: 10
 
 # View.
