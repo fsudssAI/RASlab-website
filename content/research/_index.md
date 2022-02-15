@@ -26,7 +26,7 @@ design:
   view: 3
 ---
 <p align="center">
-<img src="https://user-images.githubusercontent.com/72170474/154104090-ff50b6a1-8f65-4e1a-8793-4697af7645d0.png" width="500" />
+<img src="https://user-images.githubusercontent.com/36635562/154157429-54fdb042-8a72-4f33-95a6-7c1bee054087.png" width="500" />
  </p>
  
 ## <span style="color: #0a7ed1;font-weight:bold">Resilient Control Systems</span>
