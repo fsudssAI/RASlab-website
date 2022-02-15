@@ -25,7 +25,9 @@ design:
   #   4 = Citation (publication only)
   view: 3
 ---
-
+<p align="center">
+<img src="https://user-images.githubusercontent.com/72170474/154104090-ff50b6a1-8f65-4e1a-8793-4697af7645d0.png" width="500" />
+ </p>
 ## <span style="color: #0a7ed1;font-weight:bold">Resilient Control Systems</span>
 **Sponsor**: Department of Energy; GE Global Research <br>
 <p align="center">
