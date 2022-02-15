@@ -2,7 +2,7 @@
 widget: featured
 headless: true  # This file represents a page section.
 
-title: Projects
+title:
 # ... Put Your Section Options Here (title etc.) ...
 
 content:
