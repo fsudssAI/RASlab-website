@@ -58,7 +58,7 @@ projects:
 ![overview](https://user-images.githubusercontent.com/72170474/154105932-8c444e3f-ad14-480e-82d6-62f26f25c594.png)
 
 ##  <span style="color: #0a7ed1;font-weight:bold">Capabilities</span>
-###  <span style="color: #0a7ed1;font-weight:bold">Localization with Uncalibrated Cameras for Indoor and Outdoor environments (LUCIO)</span>
+###  Localization with Uncalibrated Cameras for Indoor and Outdoor environments (LUCIO)
 Lucio system is a multi-Model learning system for smooth Georeferenced Tracking from an Uncalibrated Monocular Camera. 
 ![Luscio](https://user-images.githubusercontent.com/36635562/150834501-0bce5931-1f70-43e1-b626-de4864cffa22.png)
 
@@ -66,8 +66,9 @@ Lucio system is a multi-Model learning system for smooth Georeferenced Tracking 
 - Won 2nd place in Navy [AI-Track-at-sea](https://www.eng.famu.fsu.edu/news/tracks-at-sea-2021) competition (aacuracy: 57%). (2020 fall)
 - Improved the accuracy of localization to 99.7% for indoor training tasks. (2021 fall)
 
-### <span style="color: #0a7ed1;font-weight:bold">Planning and Motion Control</span>
+### Planning and Motion Control
 - **Real-time Mapping and Path Planning**
+Video is loading...
 
 - **Path following control**
 A vision-based self-driving car platform is being constructed, including model characterization, parameter estimation, sensor fusion, object detection, optimal path planing, robust motion control. <br>
