@@ -54,76 +54,28 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
+## <span style="color: #0a7ed1;font-weight:bold">Summary</span>
+The cyber-threat landscape on cyber-physical critical infrastructures is widening with increasing sophistication associated with the use of IoT despite significant benefits in terms of reliability and efficiency.  The reason for this can be attributed to the advancements in information and communication technologies on the one hand and the inadequate level of security measures on legacy systems on the other hand.  As a result, the vulnerability of these systems to extreme events (cyber-attacks and natural disasters) have increased dramatically in the past few years. Developing control systems to fulfil performance objective while minimizing vulnerabilities is a challenging problem. To address the challenge, existing efforts have (a) harden a subset of the subsystems from targeted extreme events, (b) add redundant components to complement the operation of failed components, and (c) creating a supervisory component to detect, localize and neutralize the effects of the extreme events. However, the high computational and deployment cost, as well as significant risk involved with these approaches, have hampered their feasibility for use in practice. Thus, more feasible, adaptive, and real-time implementable resiliency strategies are needed.
+## [<span style="color: #0a7ed1;font-weight:bold">Resilient Energy Delivery Control Systems (REDCS)</span>](https://www.energy.gov/ceser/cybersecurity-energy-delivery-systems-funding-opportunity-announcement-2065-selections): 
+**Sponsor**: The Department of Energy (DOE), Office of Cybersecurity, Energy Security, and Emergency Response (CESER)  <br>
+**partners**: GE Global Research (Lead), Baker Hughes and Intel <br>
 
-## Acknowledgement: 
-This research is supported by 
-- Department of Energy ([CX-021036: REDCS](https://www.energy.gov/nepa/downloads/cx-021036-resilient-energy-delivery-and-control-systems-redcs)) under Award Number DE-CR0000005.
-- Florida State University
-- Center for Advanced Power sysetms
-## Overview
-![overview](https://user-images.githubusercontent.com/72170474/150700126-aa8e85bc-1809-46b9-b35b-bd72f41a93aa.png)
-Cyber-physical system (CPS) is a relatively young area of research, with the term itself only recently coined in 2006 by the National Science Foundation (NSF) to refer to the tight conjoining of and coordination between computational and physical resources. The seamless integration of computation, networking and physical components is a main characteristic of CPS but also enables malicious agents chances to inject attacks.<br>
-Example cyber threats in the history:
-- Suspected cyber intruder took control of the power system control center in western Ukraine in December 2015;
-- In 2015, 25 cyber attacks were disclosed in several water systems;
-- In 2020, a malicious cyber-attack attempted to raise the chlorine level in Israel’s water supply to dangerous proportion ……
+This project will develop REDCS, consisting of sophisticated algorithm modules hosted on a secure computer system with the goal of maintaining operation at a safe state while a cyber-attack is underway. The proposed solution, enabled by the latest advancements in Machine Learning and Control Theory, will allow for continued operation of a natural gas pipeline during a cyber-attack by monitoring related physics to quickly detect attacks, isolate impacted nodes, predict the onset of anomalies, and self-heal to mitigate the impacts.
+![REDCS](https://user-images.githubusercontent.com/36635562/154086164-f5a6073a-4ec3-4371-b243-e3eaf95a1ebb.png)
 
-## Concurrent Modeling for CPS
-![CPS model](https://user-images.githubusercontent.com/72170474/150700418-b937c2ad-bdd6-40a1-915c-375ea4826afa.png)
-Model is an abstract representation of the construction and operation of the system of interest, and it should not be so complex but be a close approximation to the real system and incorporate most of its salient features. Based on a reliable model, designer could simulate behavior and perform mathematical analysis offline. For security-related aspect of CPS, modeling provides the chance to design and test the system's robustness and resilience to disturbance, faults, and malicious attacks without exposing a real physical plant to such threats. 
+## <span style="color: #0a7ed1;font-weight:bold"> Concurrent-Learning Resilient Cyber-Physical Systems</span>
+**Sponsor**: Florida State University, Department of Energy <br>
+The aim of this project is to leverage the cyber-physical nature of critical infrastructures to develop a suite of concurrent learning resilient algorithms. The developed algorithms will seamlessly merge data-driven machine learning models, for the cyber layer, with domain knowledge physics-based models, for the physical layer, to simultaneously achieve high accuracy and high generalizability for detecting, localizing, and neutralizing both known and unknown extreme events. This will enable cyber-physical critical infrastructures to survive a cyber incident while sustaining critical functions. 
+![CLRCPS](https://user-images.githubusercontent.com/36635562/154086617-ca1cc8ef-f523-413c-aef9-f3d7d7579c40.png)
 
-## Attack Characterization
-![attack](https://user-images.githubusercontent.com/72170474/150700777-baa14500-e782-4d52-9599-a1408df61870.png)
-Security is defined as an ability to place resilience on provided services under malicious attacks. Unlike the traditional attacks on computer system which occurs only in cyber layer, the attacks in CPS would be designed subtly to affect both cyber and physical parts.
 
-## Attack Generation
-That an attack is seen to be successful or not depends on its effectiveness and stealthiness. 
-![GAN-based attack generation](https://user-images.githubusercontent.com/72170474/150701139-7ec29353-d0d3-41c6-80c5-eea68ed01f48.png)
-
-**Relevant paper**: 
-- [Data-driven approach: Algorithm Design for Resilient Cyber-Physical Systems using an Automated Attack Generative Model](https://raslab.netlify.app/publication/adrcpsaag/)
-- [Model-based approach 1: Attack-Resilient Weighted L1 Observer with Prior Pruning](https://raslab.netlify.app/publication/arl1ofdia/)
-- [Model-based approach 2: under review]()
-
-## Attack Detection and Identification
-![concurrent ADI (CADI)](https://user-images.githubusercontent.com/72170474/150700790-60e5c7ca-10e1-4839-bdf0-429317277b44.png)
-Several directions of this researches could be conducted:
-- A: Learn the nominal characterization of system, create an additional secure detetion layer that is hidden from attacker;
-- B: Learn the characterization of attacks.
-
-**Relevant paper**: 
-- [Approach A: Enhanced resilient state estimation using data-driven auxiliary models](https://raslab.netlify.app/publication/erseddam/)
-- [Approach A: Resilient Observer Design for Cyber-Physical Systems with Data-Driven Measurement Pruning](https://raslab.netlify.app/publication/rodcpsddmp/)
-- [Approach B: Algorithm Design for Resilient Cyber-Physical Systems using an Automated Attack Generative Model](https://raslab.netlify.app/publication/adrcpsaag/)
-
-## Cocurrent Learning and Resilient Estimation
-Traditional attack-resilient observer designs (such as L1 decoder, event-trigger luenberger observer…) require half of measurements to be clean.<br>
-Cocurrent Learning and Resilient Estimation (CLRE) is an approach combining learning-based prior information with resilient estimation design in order to improve system's resiliency.<br>
-**Relevant paper**: 
+### Relevant papers:
 - [Enhanced resilient state estimation using data-driven auxiliary models](https://raslab.netlify.app/publication/erseddam/)
-- [Multi-Model Resilient Observer under False Data Injection Attacks](https://raslab.netlify.app/publication/mmrofdia/)
 - [Attack-Resilient Weighted L1 Observer with Prior Pruning](https://raslab.netlify.app/publication/arl1ofdia/)
+- [Multi-Model Resilient Observer under False Data Injection Attacks](https://raslab.netlify.app/publication/mmrofdia/)
+- [Attack-Resilient Observer Pruning for Path-Tracking Control of Wheeled Mobile Robot](https://raslab.netlify.app/publication/aropptcwmr/)
+- [Evasion attacks with adversarial deep learning against power system state estimation](https://raslab.netlify.app/publication/eaadlpsse/)
 - [Resilient optimal estimation using measurement prior](https://raslab.netlify.app/publication/roemr/)
 - [Robust Resilient Signal Reconstruction under Adversarial Attacks](https://raslab.netlify.app/publication/rrsraa/)
-
-## Adversary Machine Learning
-In order to protect against cyber attacks, several machine learning algorithms have been proposed for attack detection and identification. However, such methods are susceptible to adversarial examples which could significantly reduce their detection accuracy. <br>
-Relevant paper: 
-- [Evasion attacks with adversarial deep learning against power system state estimation](https://raslab.netlify.app/publication/eaadlpsse/)
-
-## Applications
-### Resilient Energy Delivery and Control Systems (REDCS)
-![REDCS](https://user-images.githubusercontent.com/72170474/150701660-4f0b5fef-0628-4d11-a9db-065759e30b7a.png)
-**Relevant paper**: 
-- [Algorithm Design for Resilient Cyber-Physical Systems using an Automated Attack Generative Model](https://raslab.netlify.app/publication/adrcpsaag/)
-- 
-### Resilient robot motion control system
-![image](https://user-images.githubusercontent.com/72170474/150701939-1f52353c-f62c-4536-87ff-aeefa6a0862f.png)
-**Relevant paper**: 
-- [Attack-Resilient Observer Pruning for Path-Tracking Control of Wheeled Mobile Robot](https://raslab.netlify.app/publication/aropptcwmr/)
-- 
-### Resilient water distribution system
-![image](https://user-images.githubusercontent.com/72170474/150701940-4bac0d8a-689c-414d-b59d-ebda9d5e540e.png)
-**Relevant paper**: 
-- [Algorithm Design for Resilient Cyber-Physical Systems using an Automated Attack Generative Model](https://raslab.netlify.app/publication/adrcpsaag/)
 - [Resilient Observer Design for Cyber-Physical Systems with Data-Driven Measurement Pruning](https://raslab.netlify.app/publication/rodcpsddmp/)
+- [Algorithm Design for Resilient Cyber-Physical Systems using an Automated Attack Generative Model](https://raslab.netlify.app/publication/adrcpsaag/) (under review)
