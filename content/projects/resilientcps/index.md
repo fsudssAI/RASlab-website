@@ -13,7 +13,7 @@ address:
   postcode: 
   country:
 
-summary: Cyber-physical system (CPS) is a new terminology of smart systems referring to the tight conjoining of and coordination between computation, comunication and physical processes.In increasingly serious adversary environment, the quest to synthesize control laws that meet the necessary resiliency requirements will become even more challenging. This research is focusing on vulnerability analysis, anomaly detection, characterization, and localization, to resilient control and state estimation designs against adversarial targeting.
+summary: The cyber-threat landscape on cyber-physical critical infrastructures is widening with increasing sophistication associated with the use of IoT despite significant benefits in terms of reliability and efficiency. Developing control systems to fulfil performance objective while minimizing vulnerabilities is a challenging problem. To address the challenge, existing efforts have (a) harden a subset of the subsystems from targeted extreme events, (b) add redundant components to complement the operation of failed components, and (c) creating a supervisory component to detect, localize and neutralize the effects of the extreme events. However, the high computational and deployment cost, as well as significant risk involved with these approaches, have hampered their feasibility for use in practice. Thus, more feasible, adaptive, and real-time implementable resiliency strategies are needed.
 abstract: ""
 
 # Talk start and end times.
@@ -54,7 +54,7 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-## <span style="color: #0a7ed1;font-weight:bold">Summary</span>
+
 The cyber-threat landscape on cyber-physical critical infrastructures is widening with increasing sophistication associated with the use of IoT despite significant benefits in terms of reliability and efficiency.  The reason for this can be attributed to the advancements in information and communication technologies on the one hand and the inadequate level of security measures on legacy systems on the other hand.  As a result, the vulnerability of these systems to extreme events (cyber-attacks and natural disasters) have increased dramatically in the past few years. Developing control systems to fulfil performance objective while minimizing vulnerabilities is a challenging problem. To address the challenge, existing efforts have (a) harden a subset of the subsystems from targeted extreme events, (b) add redundant components to complement the operation of failed components, and (c) creating a supervisory component to detect, localize and neutralize the effects of the extreme events. However, the high computational and deployment cost, as well as significant risk involved with these approaches, have hampered their feasibility for use in practice. Thus, more feasible, adaptive, and real-time implementable resiliency strategies are needed.
 ## [<span style="color: #0a7ed1;font-weight:bold">Resilient Energy Delivery Control Systems (REDCS)</span>](https://www.energy.gov/ceser/cybersecurity-energy-delivery-systems-funding-opportunity-announcement-2065-selections): 
 **Sponsor**: The Department of Energy (DOE), Office of Cybersecurity, Energy Security, and Emergency Response (CESER)  <br>
