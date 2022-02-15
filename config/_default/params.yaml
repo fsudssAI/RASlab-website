@@ -81,7 +81,7 @@ copyright_license:
   notice: 'This work is licensed under {license}'
 plugins_js: []
 avatar:
-  gravatar: true
+  gravatar: false
   shape: circle
 publications:
   date_format: January 2006
