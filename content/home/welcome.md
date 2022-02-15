@@ -32,12 +32,3 @@ design:
   css_style:
   css_class:
 ---
-<p style="color: white;font-weight:bold;font-size=50px" align="center">RESILIENT AND AUTONOMOUS SYSTEMS LAB</p>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
