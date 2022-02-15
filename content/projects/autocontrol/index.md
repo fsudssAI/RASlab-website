@@ -78,7 +78,7 @@ projects:
 {{< video library="true" autoplay="autoplay" loop="loop" controls="controls" width="1280" height="640" src="Nolebot_pp.mp4" >}}
 {{< youtube 7Oz_TR-duHE >}}
 
-## <span style="color: #0a7ed1;font-weight:bold"> Vehicle Dynamics and Control</span>
+## <span style="color: #0a7ed1;font-weight:bold"> Vehicle Mechaniscs, Dynamics and Control</span>
 {{< video library="true" autoplay="autoplay" loop="loop" controls="controls" src="suspension1.mp4" >}}
 {{< video library="true" autoplay="autoplay" loop="loop" controls="controls" src="suspension2.mp4" >}}
 
