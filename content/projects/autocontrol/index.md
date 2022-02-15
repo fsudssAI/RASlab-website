@@ -57,9 +57,7 @@ projects:
 ## <span style="color: #0a7ed1;font-weight:bold">Autonomous Systems Control</span>
 ![overview](https://user-images.githubusercontent.com/72170474/154105932-8c444e3f-ad14-480e-82d6-62f26f25c594.png)
 
-
 ##  <span style="color: #0a7ed1;font-weight:bold">Capabilities</span>
-
 ###  <span style="color: #0a7ed1;font-weight:bold">Localization with Uncalibrated Cameras for Indoor and Outdoor environments (LUCIO)</span>
 Lucio system is a multi-Model learning system for smooth Georeferenced Tracking from an Uncalibrated Monocular Camera. 
 ![Luscio](https://user-images.githubusercontent.com/36635562/150834501-0bce5931-1f70-43e1-b626-de4864cffa22.png)
@@ -70,7 +68,6 @@ Lucio system is a multi-Model learning system for smooth Georeferenced Tracking 
 
 ### <span style="color: #0a7ed1;font-weight:bold">Planning and Motion Control</span>
 - **Real-time Mapping and Path Planning**
-{{< video library="true" src="Nolebot_pp.mp4" controls="yes" >}}
 
 - **Path following control**
 A vision-based self-driving car platform is being constructed, including model characterization, parameter estimation, sensor fusion, object detection, optimal path planing, robust motion control. <br>
