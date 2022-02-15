@@ -6,7 +6,7 @@
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 5  # Order that this section will appear.
-title: |
+title: RESILIENT AND AUTONOMOUS SYSTEMS LAB
 # hero_media: ''
 # hero_media: 'logos.png'
 design:
@@ -32,12 +32,3 @@ design:
   css_style:
   css_class:
 ---
-<P style="font-family:Segoe UI; color:white; font-size: 40px; " align="center">
-  <b>RESILIENT AND AUTONOMOUS SYSTEMS LAB </b>
-  </p>
-  <br>
-  <br>
-  <br>
-  <br>
-   <br>
-  <br>
