@@ -69,7 +69,7 @@ projects:
 ![Luscio](https://user-images.githubusercontent.com/36635562/150834501-0bce5931-1f70-43e1-b626-de4864cffa22.png)<br>
 
 - Won 2nd place in Navy [AI-Track-at-sea](https://www.eng.famu.fsu.edu/news/tracks-at-sea-2021) competition (aacuracy: 57%). (2020 fall)
-- Improved the accuracy of localization to 99.7% for indoor training tasks. (2021 fall)
+- Improved the accuracy of localization to 97% for indoor training tasks. (2021 fall)
 
 {{< video library="true" autoplay="autoplay" loop="loop" controls="controls" width="1280" height="640" src="lucio_demo.mp4" >}}
 
