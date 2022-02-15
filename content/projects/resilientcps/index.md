@@ -1,6 +1,6 @@
 ---
 layout: page
-title:
+title: Resilient Control Systems
 
 event: 
 event_url: 
@@ -13,7 +13,7 @@ address:
   postcode: 
   country:
 
-summary: RESILIENT CONTROL SYSTEMS - The cyber-threat landscape on cyber-physical critical infrastructures is widening with increasing sophistication associated with the use of IoT despite significant benefits in terms of reliability and efficiency. Developing control systems to fulfil performance objective while minimizing vulnerabilities is a challenging problem. To address the challenge, existing efforts have (a) harden a subset of the subsystems from targeted extreme events, (b) add redundant components to complement the operation of failed components, and (c) creating a supervisory component to detect, localize and neutralize the effects of the extreme events. However, the high computational and deployment cost, as well as significant risk involved with these approaches, have hampered their feasibility for use in practice. Thus, more feasible, adaptive, and real-time implementable resiliency strategies are needed.
+summary: The cyber-threat landscape on cyber-physical critical infrastructures is widening with increasing sophistication associated with the use of IoT despite significant benefits in terms of reliability and efficiency. Developing control systems to fulfil performance objective while minimizing vulnerabilities is a challenging problem. To address the challenge, existing efforts have (a) harden a subset of the subsystems from targeted extreme events, (b) add redundant components to complement the operation of failed components, and (c) creating a supervisory component to detect, localize and neutralize the effects of the extreme events. However, the high computational and deployment cost, as well as significant risk involved with these approaches, have hampered their feasibility for use in practice. Thus, more feasible, adaptive, and real-time implementable resiliency strategies are needed.
 abstract: ""
 
 # Talk start and end times.
@@ -54,7 +54,6 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-## <span style="color: #0a7ed1;font-weight:bold">Resilient Control Systems</span>
 
 The cyber-threat landscape on cyber-physical critical infrastructures is widening with increasing sophistication associated with the use of IoT despite significant benefits in terms of reliability and efficiency.  The reason for this can be attributed to the advancements in information and communication technologies on the one hand and the inadequate level of security measures on legacy systems on the other hand.  As a result, the vulnerability of these systems to extreme events (cyber-attacks and natural disasters) have increased dramatically in the past few years. Developing control systems to fulfil performance objective while minimizing vulnerabilities is a challenging problem. To address the challenge, existing efforts have (a) harden a subset of the subsystems from targeted extreme events, (b) add redundant components to complement the operation of failed components, and (c) creating a supervisory component to detect, localize and neutralize the effects of the extreme events. However, the high computational and deployment cost, as well as significant risk involved with these approaches, have hampered their feasibility for use in practice. Thus, more feasible, adaptive, and real-time implementable resiliency strategies are needed.
 ## [<span style="color: #0a7ed1;font-weight:bold">Resilient Energy Delivery Control Systems (REDCS)</span>](https://www.energy.gov/ceser/cybersecurity-energy-delivery-systems-funding-opportunity-announcement-2065-selections)
