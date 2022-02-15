@@ -6,8 +6,7 @@
 widget: blank  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
 weight: 1  # Order that this section will appear.
-title: |
-RESILIENT AND AUTONOMOUS SYSTEMS LAB
+title: RESILIENT AND AUTONOMOUS SYSTEMS LAB
 # hero_media: ''
 # hero_media: 'logos.png'
 design:
