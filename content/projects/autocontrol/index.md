@@ -13,7 +13,7 @@ address:
   postcode:
   country:
 
-summary: We are constucting a cutting-edge self-driving vehicle platform. In this project, several researches are conducted, vison-based lane detection, learning-based object detection, image-based real-world localization, robust motion control and estimation. The self-driving platform is built on a 1/10 vehicle (MicroNole) and a full-size van (AutoNole).
+summary: AUTONOMOUS SYSTEMS - We are constucting a cutting-edge self-driving vehicle platform. In this project, several researches are conducted, vison-based lane detection, learning-based object detection, image-based real-world localization, robust motion control and estimation. The self-driving platform is built on a 1/10 vehicle (MicroNole) and a full-size van (AutoNole).
 abstract: ""
 
 # Talk start and end times.
