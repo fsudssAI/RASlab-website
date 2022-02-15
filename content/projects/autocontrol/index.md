@@ -67,16 +67,22 @@ Lucio system is a multi-Model learning system for smooth Georeferenced Tracking 
 - Improved the accuracy of localization to 99.7% for indoor training tasks. (2021 fall)
 
 ### Planning and Motion Control
-- **Real-time Mapping and Path Planning**
+- **Real-time Mapping and Path Planning**<br>
 Video is loading...
 
-- **Path following control**
+- **Path following control** <br>
 A vision-based self-driving car platform is being constructed, including model characterization, parameter estimation, sensor fusion, object detection, optimal path planing, robust motion control. <br>
 {{< youtube 7Oz_TR-duHE >}}
 
-- **Resilient Motion Control**
+- **Resilient Motion Control** <br>
 ![RMC](https://user-images.githubusercontent.com/72170474/154106839-d696e7f7-2668-4a35-958c-c80238a6283d.png)
 
 ## <span style="color: #0a7ed1;font-weight:bold">Paper</span>
 - [Multi-modal Learning Pipeline for Smooth Georeferenced Tracking from an Uncalibrated Monocular Camera](https://raslab.netlify.app/publication/mmlpsgtumc/)
 - [Attack-Resilient Observer Pruning for Path-Tracking Control of Wheeled Mobile Robot](https://raslab.netlify.app/publication/aropptcwmr/)
+- [Vehicle Roll Stabilization Enhancement Using a Variable Stiffness Architecture: Kinematic Control.](https://raslab.netlify.app/publication/vrsevsakc/)
+- [A New Semiactive Variable Stiffness Suspension System Using Combined Skyhook and Nonlinear Energy Sink-Based Controllers.](https://raslab.netlify.app/publication/ansvssscsnesc/)
+- [Roll stabilisation of road vehicles using a variable stiffness suspension system](https://raslab.netlify.app/publication/rsrvvsss/)
+- [A new variable stiffness suspension system passive case](https://raslab.netlify.app/publication/anvssspc/)
+- [Active suspension for the control of planar vehicle dynamics](https://raslab.netlify.app/publication/ascpvd/)
+- [Development of realizable and adaptive wheel torque allocation for the control of planar vehicle dynamics](https://raslab.netlify.app/publication/drawtcpvd/)
