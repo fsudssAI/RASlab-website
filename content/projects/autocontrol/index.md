@@ -79,8 +79,6 @@ projects:
 {{< youtube 7Oz_TR-duHE >}}
 
 ## <span style="color: #0a7ed1;font-weight:bold"> Vehicle Dynamics and Control</span>
-{{< video library="true" autoplay="autoplay" loop="loop" controls="controls" src="suspension1.mov" >}}
-{{< video library="true" autoplay="autoplay" loop="loop" controls="controls" src="suspension2.mov" >}}
 
 ## <span style="color: #0a7ed1;font-weight:bold">Papers</span>
 - [Multi-modal Learning Pipeline for Smooth Georeferenced Tracking from an Uncalibrated Monocular Camera](https://raslab.netlify.app/publication/mmlpsgtumc/)
