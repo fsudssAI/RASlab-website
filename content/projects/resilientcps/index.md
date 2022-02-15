@@ -57,14 +57,15 @@ projects:
 
 The cyber-threat landscape on cyber-physical critical infrastructures is widening with increasing sophistication associated with the use of IoT despite significant benefits in terms of reliability and efficiency.  The reason for this can be attributed to the advancements in information and communication technologies on the one hand and the inadequate level of security measures on legacy systems on the other hand.  As a result, the vulnerability of these systems to extreme events (cyber-attacks and natural disasters) have increased dramatically in the past few years. Developing control systems to fulfil performance objective while minimizing vulnerabilities is a challenging problem. To address the challenge, existing efforts have (a) harden a subset of the subsystems from targeted extreme events, (b) add redundant components to complement the operation of failed components, and (c) creating a supervisory component to detect, localize and neutralize the effects of the extreme events. However, the high computational and deployment cost, as well as significant risk involved with these approaches, have hampered their feasibility for use in practice. Thus, more feasible, adaptive, and real-time implementable resiliency strategies are needed.
 ## [<span style="color: #0a7ed1;font-weight:bold">Resilient Energy Delivery Control Systems (REDCS)</span>](https://www.energy.gov/ceser/cybersecurity-energy-delivery-systems-funding-opportunity-announcement-2065-selections): 
-**Sponsor**: The Department of Energy (DOE), Office of Cybersecurity, Energy Security, and Emergency Response (CESER)  <br>
+**Sponsors**: The Department of Energy (DOE), Office of Cybersecurity, Energy Security, and Emergency Response (CESER)  <br>
 **partners**: GE Global Research (Lead), Baker Hughes and Intel <br>
 
 This project will develop REDCS, consisting of sophisticated algorithm modules hosted on a secure computer system with the goal of maintaining operation at a safe state while a cyber-attack is underway. The proposed solution, enabled by the latest advancements in Machine Learning and Control Theory, will allow for continued operation of a natural gas pipeline during a cyber-attack by monitoring related physics to quickly detect attacks, isolate impacted nodes, predict the onset of anomalies, and self-heal to mitigate the impacts.
 ![REDCS](https://user-images.githubusercontent.com/36635562/154086164-f5a6073a-4ec3-4371-b243-e3eaf95a1ebb.png)
 
 ## <span style="color: #0a7ed1;font-weight:bold"> Concurrent-Learning Resilient Cyber-Physical Systems</span>
-**Sponsor**: Florida State University, Department of Energy <br>
+**Sponsors**: Florida State University, Department of Energy <br>
+**partners**: GE Global Research <br>
 The aim of this project is to leverage the cyber-physical nature of critical infrastructures to develop a suite of concurrent learning resilient algorithms. The developed algorithms will seamlessly merge data-driven machine learning models, for the cyber layer, with domain knowledge physics-based models, for the physical layer, to simultaneously achieve high accuracy and high generalizability for detecting, localizing, and neutralizing both known and unknown extreme events. This will enable cyber-physical critical infrastructures to survive a cyber incident while sustaining critical functions. 
 ![CLRCPS](https://user-images.githubusercontent.com/36635562/154086617-ca1cc8ef-f523-413c-aef9-f3d7d7579c40.png)
 
