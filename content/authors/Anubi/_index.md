@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 interests:
-- Resilient, Robust and Adaptive Control Systems
-- Vehicle Dynamics and Control
-- Real-time Optimization
-- Robotics
+- Cyber-Physical Systems: Resilient Estimation and Control
+- Control Systems
+- Large-scale learning Systems
+- Autonomous systems
 
 education:
   courses:
