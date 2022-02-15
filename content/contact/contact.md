@@ -29,4 +29,4 @@ design:
   columns: '1'
 ---
 
-Welcome to Resilient and Autonomous Systems Lab Website, we are happy to meet you.
+Welcome to Resilient and Autonomous Systems Lab, we are happy to meet you.
