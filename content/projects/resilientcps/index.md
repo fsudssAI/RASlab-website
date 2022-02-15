@@ -70,7 +70,7 @@ The aim of this project is to leverage the cyber-physical nature of critical inf
 ![CLRCPS](https://user-images.githubusercontent.com/36635562/154086617-ca1cc8ef-f523-413c-aef9-f3d7d7579c40.png)
 
 
-### Papers:
+## [<span style="color: #0a7ed1;font-weight:bold">Paper</span>](https://raslab.netlify.app/publication/):
 - [Enhanced resilient state estimation using data-driven auxiliary models](https://raslab.netlify.app/publication/erseddam/)
 - [Resilient Observer Design for Cyber-Physical Systems with Data-Driven Measurement Pruning](https://raslab.netlify.app/publication/rodcpsddmp/) (printing)
 - [Attack-Resilient Weighted L1 Observer with Prior Pruning](https://raslab.netlify.app/publication/arl1ofdia/)
