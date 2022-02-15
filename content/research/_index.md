@@ -28,8 +28,10 @@ design:
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72170474/154104090-ff50b6a1-8f65-4e1a-8793-4697af7645d0.png" width="500" />
  </p>
+ 
 ## <span style="color: #0a7ed1;font-weight:bold">Resilient Control Systems</span>
-**Sponsor**: Department of Energy; GE Global Research <br>
+**Sponsors**: The Department of Energy (DOE), Office of Cybersecurity, Energy Security, and Emergency Response (CESER); Florida State University<br>
+**Partners**: GE Global Research, Baker Hughes and Intel<br>
 <p align="center">
 <img src="https://user-images.githubusercontent.com/72170474/153111274-fd5a581f-b9f7-47d6-9767-fa8b59e92765.png" width="500" />
  </p>
