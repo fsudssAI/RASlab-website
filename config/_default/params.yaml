@@ -63,15 +63,15 @@ address_format: en-us
 
 highlight: true
 math: true
-diagram: false
-privacy_pack: false
+diagram: true
+privacy_pack: true
 show_related:
   post: true
   project: true
   publication: true
   talk: true
 reading_time: true
-section_pager: false
+section_pager: true
 sharing: true
 copyright_license:
   enable: false
@@ -81,7 +81,7 @@ copyright_license:
   notice: 'This work is licensed under {license}'
 plugins_js: []
 avatar:
-  gravatar: false
+  gravatar: true
   shape: circle
 publications:
   date_format: January 2006
