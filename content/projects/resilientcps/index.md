@@ -1,6 +1,6 @@
 ---
 layout: page
-title: \textcolor{#0a7ed1}{Resilient Control Systems}
+title: Resilient Control Systems
 
 event: 
 event_url: 
