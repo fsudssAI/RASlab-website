@@ -70,13 +70,13 @@ The aim of this project is to leverage the cyber-physical nature of critical inf
 ![CLRCPS](https://user-images.githubusercontent.com/36635562/154086617-ca1cc8ef-f523-413c-aef9-f3d7d7579c40.png)
 
 
-### Relevant papers:
+### Papers:
 - [Enhanced resilient state estimation using data-driven auxiliary models](https://raslab.netlify.app/publication/erseddam/)
+- [Resilient Observer Design for Cyber-Physical Systems with Data-Driven Measurement Pruning](https://raslab.netlify.app/publication/rodcpsddmp/) (printing)
 - [Attack-Resilient Weighted L1 Observer with Prior Pruning](https://raslab.netlify.app/publication/arl1ofdia/)
 - [Multi-Model Resilient Observer under False Data Injection Attacks](https://raslab.netlify.app/publication/mmrofdia/)
 - [Attack-Resilient Observer Pruning for Path-Tracking Control of Wheeled Mobile Robot](https://raslab.netlify.app/publication/aropptcwmr/)
 - [Evasion attacks with adversarial deep learning against power system state estimation](https://raslab.netlify.app/publication/eaadlpsse/)
 - [Resilient optimal estimation using measurement prior](https://raslab.netlify.app/publication/roemr/)
 - [Robust Resilient Signal Reconstruction under Adversarial Attacks](https://raslab.netlify.app/publication/rrsraa/)
-- [Resilient Observer Design for Cyber-Physical Systems with Data-Driven Measurement Pruning](https://raslab.netlify.app/publication/rodcpsddmp/)
 - [Algorithm Design for Resilient Cyber-Physical Systems using an Automated Attack Generative Model](https://raslab.netlify.app/publication/adrcpsaag/) (under review)
