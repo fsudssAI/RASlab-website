@@ -54,7 +54,8 @@ slides:
 #   Otherwise, set `projects = []`.
 projects:
 ---
-## Acknowledgement
+
+## Sponsors
 - Office of Naval Research (ONR)
 - Florida State University (FSU)
 - Center for Advanced Power Systems (CAPS)
