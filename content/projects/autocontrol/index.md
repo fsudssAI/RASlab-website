@@ -62,18 +62,22 @@ projects:
 - Large-scale Shared Control
 
 ## <span style="color: #0a7ed1;font-weight:bold">Platforms</span>
-![platforms](https://user-images.githubusercontent.com/36635562/154153095-6a992411-ee78-4f83-88a0-c07c87cfac65.png)
+![auto_platform](https://user-images.githubusercontent.com/36635562/157259618-3fc2f40a-b028-46ba-a711-0604c344bfc0.png)
+
+## <span style="color: #0a7ed1;font-weight:bold"> Autonomous Racing </span>
+![auto_racing](https://user-images.githubusercontent.com/36635562/157261952-0be68956-d687-42bb-91cb-f19210a0d288.png)
 
 
 ## <span style="color: #0a7ed1;font-weight:bold">Localization with Uncalibrated Cameras for Indoor and Outdoor environments (LUCIO)</span>
-![Luscio](https://user-images.githubusercontent.com/36635562/150834501-0bce5931-1f70-43e1-b626-de4864cffa22.png)<br>
+![LUCIO](https://user-images.githubusercontent.com/36635562/157260145-da4fdaf7-76ab-48b5-a83d-ef703df4259c.png)<br>
 
-- Won 2nd place in Navy [AI-Track-at-sea](https://www.eng.famu.fsu.edu/news/tracks-at-sea-2021) competition (aacuracy: 57%). (2020 fall)
-- Improved the accuracy of localization to 97% for indoor training tasks. (2021 fall)
+- Won 2nd place in Navy [AI-Track-at-sea](https://www.eng.famu.fsu.edu/news/tracks-at-sea-2021) national competition 2021
+- Improved the accuracy of localization from 67% to 97% since 2021
 
 {{< video library="true" autoplay="autoplay" loop="loop" controls="controls" width="1280" height="640" src="lucio_demo.mp4" >}}
 
-## <span style="color: #0a7ed1;font-weight:bold"> Resilent Planning and Motion Control </span>
+## <span style="color: #0a7ed1;font-weight:bold"> Adversarial Autonomy </span>
+![autonomy](https://user-images.githubusercontent.com/36635562/157262196-0f327fd3-4d9b-44c3-9a08-43bc733018ad.png)
 ![RMC](https://user-images.githubusercontent.com/72170474/154106839-d696e7f7-2668-4a35-958c-c80238a6283d.png)
 {{< video library="true" autoplay="autoplay" loop="loop" controls="controls" width="1280" height="640" src="Nolebot_pp.mp4" >}}
 {{< youtube 7Oz_TR-duHE >}}
