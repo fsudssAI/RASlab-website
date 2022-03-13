@@ -68,12 +68,7 @@ projects:
 ![auto racing](auto-racing.gif)
 
 ## <span style="color: #0a7ed1;font-weight:bold">Localization with Uncalibrated Cameras for Indoor and Outdoor environments (LUCIO)</span>
-![LUCIO](https://user-images.githubusercontent.com/36635562/157260145-da4fdaf7-76ab-48b5-a83d-ef703df4259c.png)<br>
-
-- Won 2nd place in Navy [AI-Track-at-sea](https://www.eng.famu.fsu.edu/news/tracks-at-sea-2021) national competition 2021
-- Improved the accuracy of localization from 67% to 97% since 2021
-
-{{< video library="true" autoplay="autoplay" loop="loop" controls="controls" width="1280" height="640" src="lucio_demo.mp4" >}}
+![auto racing](Lucio_final.gif)
 
 ## <span style="color: #0a7ed1;font-weight:bold"> Adversarial Autonomy </span>
 ![autonomy](https://user-images.githubusercontent.com/36635562/157262196-0f327fd3-4d9b-44c3-9a08-43bc733018ad.png)
