@@ -65,8 +65,7 @@ projects:
 ![auto_platform](https://user-images.githubusercontent.com/36635562/157259618-3fc2f40a-b028-46ba-a711-0604c344bfc0.png)
 
 ## <span style="color: #0a7ed1;font-weight:bold"> Autonomous Racing </span>
-![auto_racing](https://user-images.githubusercontent.com/36635562/157261952-0be68956-d687-42bb-91cb-f19210a0d288.png)
-
+![auto racing](auto-racing.gif)
 
 ## <span style="color: #0a7ed1;font-weight:bold">Localization with Uncalibrated Cameras for Indoor and Outdoor environments (LUCIO)</span>
 ![LUCIO](https://user-images.githubusercontent.com/36635562/157260145-da4fdaf7-76ab-48b5-a83d-ef703df4259c.png)<br>
