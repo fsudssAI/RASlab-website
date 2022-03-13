@@ -74,7 +74,6 @@ projects:
 ![autonomy](https://user-images.githubusercontent.com/36635562/157262196-0f327fd3-4d9b-44c3-9a08-43bc733018ad.png)
 ![RMC](https://user-images.githubusercontent.com/72170474/154106839-d696e7f7-2668-4a35-958c-c80238a6283d.png)
 {{< video library="true" autoplay="autoplay" loop="loop" controls="controls" width="1280" height="640" src="Nolebot_pp.mp4" >}}
-{{< youtube 7Oz_TR-duHE >}}
 
 ## <span style="color: #0a7ed1;font-weight:bold"> Vehicle Mechaniscs, Dynamics and Control</span>
 {{< video library="true" autoplay="autoplay" loop="loop" controls="controls" src="suspension1.mp4" >}}
