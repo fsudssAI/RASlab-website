@@ -16,8 +16,8 @@ main:
   - name: Publications
     url: publication
     weight: 50
-  - name: Gallary
-    url: gallary
+  - name: Gallery
+    url: gallery
     weight: 60
   - name: Software
     url: software
