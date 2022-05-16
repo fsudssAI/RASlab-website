@@ -3,7 +3,7 @@ title: Automated Attack Generation
 subtitle:
 
 # Summary for listings and search engines
-summary: 
+summary: An unsupervised GAN framwork for automated False data injection attack generation targetting physical dynamical system.
 # Link this post with a project
 projects: []
 
