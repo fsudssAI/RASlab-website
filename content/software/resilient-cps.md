@@ -3,7 +3,7 @@ widget: portfolio
 headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: My Projects
+title: Resilient Control Systems
 subtitle: ''
 
 content:
@@ -29,7 +29,7 @@ content:
 
 design:
   # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '1'
+  columns: '2'
   # Choose a listing view
   view: masonry
   # For Showcase view, flip alternate rows?
