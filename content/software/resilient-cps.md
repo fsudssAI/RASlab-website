@@ -1,39 +1,37 @@
 ---
-widget: portfolio
+# A Demo section created with the Blank widget.
+# Any elements can be added in the body: https://wowchemy.com/docs/writing-markdown-latex/
+# Add more sections by duplicating this file and customizing to your requirements.
+
+widget: portfolio  # See https://wowchemy.com/docs/page-builder/
 headless: true  # This file represents a page section.
-
-# ... Put Your Section Options Here (title etc.) ...
-title: Resilient Control Systems
-subtitle: ''
-
-weight: 10
+weight: 1  # Order that this section will appear.
+title: 'Resilient Control Systems'
 
 content:
-  # Choose which content to display in the widget
+  count: 10
   filters:
-    # Folders to display content from
-    folders:
-      - resilience-software
-    # Uncomment below to only show content with specific tags:
-#    tags:
-#      - Machine Learning
-    # Uncomment below to exclude content with specific tags:
-#    exclude_tags:
-#      - preface    
-    # Uncomment below to show specific Hugo Page kinds
-    kinds:
-      - page
-#      - section
-
-  # Field to sort by, such as Date or Title
-  sort_by: 'Date'
-  sort_ascending: false
+    author: ""
+    category: ""
+    exclude_featured: true
+    publication_type: ""
+    tag: ""
+  offset: 0
+  order: desc
+  page_type: resilience-software
 
 design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
+  # Choose how many columns the section has. Valid values: 1 or 2.
   columns: '2'
-  # Choose a listing view
+  # Toggle between the various page layout types.
+  #   1 = List
+  #   2 = Compact  
+  #   3 = Card
+  #   5 = Showcase
   view: masonry
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+  # Add custom styles
+  css_style:
+  css_class:
 ---
+
+<br>
