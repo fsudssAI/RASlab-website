@@ -1,4 +1,4 @@
-+++
+---
 # A Recent Blog Posts section created with the Pages widget.
 # This section displays recent blog posts from `content/CPS-security/`.
 
@@ -68,4 +68,4 @@ subtitle = "Concurrent Learning and Resilient Estimation"
 [design.spacing]
   # Customize the section spacing. Order is top, right, bottom, left.
   #padding = ["0.5rem", "0", "0.5rem", "0"]  
-+++
+---
