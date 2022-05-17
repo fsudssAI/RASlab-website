@@ -1,4 +1,6 @@
 ---
+type: widget_page
+
 title: 
 
 design:
