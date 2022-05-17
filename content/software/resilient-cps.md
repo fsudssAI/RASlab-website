@@ -1,38 +1,32 @@
 ---
-widget: portfolio
-headless: true  # This file represents a page section.
+title: Automated Attack Generation
+subtitle:
 
-# ... Put Your Section Options Here (title etc.) ...
-title: Resilient Control Systems
-subtitle: ''
+# Summary for listings and search engines
+summary: An unsupervised GAN framwork for automated False data injection attack generation targetting physical dynamical system.
+# Link this post with a project
+projects: []
 
-content:
-  # Choose which content to display in the widget
-  filters:
-    # Folders to display content from
-    folders:
-      - resilience-sofware
-    # Uncomment below to only show content with specific tags:
-#    tags:
-#      - Machine Learning
-    # Uncomment below to exclude content with specific tags:
-#    exclude_tags:
-#      - preface    
-    # Uncomment below to show specific Hugo Page kinds
-    kinds:
-      - page
-#      - section
+# Date published
+date: "2020-11-01T00:00:00Z"
 
-  # Field to sort by, such as Date or Title
-  sort_by: 'Date'
-  sort_ascending: false
+# Date updated
+lastmod: "2020-12-13T00:00:00Z"
 
-design:
-  # Choose how many columns the section has. Valid values: '1' or '2'.
-  columns: '2'
-  # Choose a listing view
-  view: masonry
-  # For Showcase view, flip alternate rows?
-  flip_alt_rows: false
+# Is this an unpublished draft?
+draft: false
+
+# Show this page in the Featured widget?
+featured: false
+
+# Featured image
+# Place an image named `featured.jpg/png` in this page's folder and customize its options here.
+image:
+  caption: 'Image credit: [**CPS**](https://unsplash.com/photos/CpkOjOcXdUY)'
+  focal_point: ""
+  placement: 2
+  preview_only: false
+
 ---
+
 
