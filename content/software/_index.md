@@ -1,5 +1,5 @@
 ---
-title: Latest News
+title: 
 
 design:
   # Use a 1-column layout
