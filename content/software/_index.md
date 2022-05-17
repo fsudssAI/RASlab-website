@@ -1,4 +1,9 @@
 ---
+widget: blank
+
+# This file represents a page section.
+headless: true
+
 title: All software
 
 design:
