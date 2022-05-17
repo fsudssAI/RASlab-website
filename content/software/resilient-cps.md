@@ -6,6 +6,8 @@ headless: true  # This file represents a page section.
 title: Resilient Control Systems
 subtitle: ''
 
+weight: 10
+
 content:
   # Choose which content to display in the widget
   filters:
