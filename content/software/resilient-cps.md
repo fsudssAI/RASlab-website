@@ -1,15 +1,38 @@
 ---
-widget: blank
-headless: true
+widget: portfolio
+headless: true  # This file represents a page section.
 
 # ... Put Your Section Options Here (title etc.) ...
-title: 
-subtitle:
-weight: 10  # section position on page
+title: My Projects
+subtitle: ''
+
+content:
+  # Choose which content to display in the widget
+  filters:
+    # Folders to display content from
+    folders:
+      - resilience-software
+    # Uncomment below to only show content with specific tags:
+#    tags:
+#      - Machine Learning
+    # Uncomment below to exclude content with specific tags:
+#    exclude_tags:
+#      - preface    
+    # Uncomment below to show specific Hugo Page kinds
+    kinds:
+      - page
+#      - section
+
+  # Field to sort by, such as Date or Title
+  sort_by: 'Date'
+  sort_ascending: false
+
 design:
-  # Choose how many columns the section has. Valid values: 1 or 2.
+  # Choose how many columns the section has. Valid values: '1' or '2'.
   columns: '1'
-  view: 5
+  # Choose a listing view
+  view: masonry
+  # For Showcase view, flip alternate rows?
+  flip_alt_rows: false
 ---
 
-aaaaaaaaaaaaaa
