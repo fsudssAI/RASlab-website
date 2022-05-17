@@ -7,5 +7,7 @@ image:
 
 An unsupervised GAN framwork for automated False data injection attack generation targetting physical dynamical system.
 
-## [Github Link](url_code: 'https://github.com/ZYblend/Resilient_WDS_AutoAttackGen')
+
+## [Github page](https://github.com/ZYblend/Resilient_WDS_AutoAttackGen)
+
 
