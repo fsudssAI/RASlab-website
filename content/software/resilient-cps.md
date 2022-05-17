@@ -11,7 +11,7 @@ content:
   filters:
     # Folders to display content from
     folders:
-      - resilience-software
+      - resilience-sofware
     # Uncomment below to only show content with specific tags:
 #    tags:
 #      - Machine Learning
