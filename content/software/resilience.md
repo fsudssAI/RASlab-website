@@ -5,9 +5,9 @@
 widget = "portfolio"  # See https://sourcethemes.com/academic/docs/page-builder/
 headless = true  # This file represents a page section.
 active = true  # Activate this widget? true/false
-weight = 30  # Order that this section will appear.
+weight = 10  # Order that this section will appear.
 
-title = "Cyber-Physical System Security"
+title = "Resilient Control Systems"
 subtitle = "Concurrent Learning and Resilient Estimation"
 
 [content]
