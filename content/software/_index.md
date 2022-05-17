@@ -1,11 +1,10 @@
 ---
 title: Latest News
 
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
-view: 3
+design:
+  # Use a 1-column layout
+  columns: "1"
+  view: 5
 
 # Optional header image (relative to `static/media/` folder).
 header:
