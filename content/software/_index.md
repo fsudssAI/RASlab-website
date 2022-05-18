@@ -1,3 +1,14 @@
+---
+widget: blank
+headless: true
+
+# ... Put Your Section Options Here (title etc.) ...
+title: Software
+subtitle:
+design:
+  # Choose how many columns the section has. Valid values: 1 or 2.
+  columns: '1'
+---
 <h1 class="text-center">Portfolio</h1>
 <div class="row">
     <div class="col-lg-4 mt-4">
