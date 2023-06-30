@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Master Student (
+role: Master Student (2019-2021)
 
 # Organizations/Affiliations
 organizations:
