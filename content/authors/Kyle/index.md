@@ -61,7 +61,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Alumni
+- Undergrad Students
 ---
 
 Kyle Lozano is an Undergraduate Mechanical Engineering Student graduating in the Spring of 2024 working in the Resilient and Autonomous Systems Lab at Florida State University. His research interests include autonomous vehicles, autonomous racecars, regenerative suspension, and machine learning.
