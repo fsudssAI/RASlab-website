@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Ashwin vadivel
+title: Ashwin Vadivel
 
 # Username (this should match the folder name)
 authors:
@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Student
+role: Master Student (
 
 # Organizations/Affiliations
 organizations:
@@ -20,9 +20,9 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: 
 interests:
--  data driven optimization
--  machine learning
--  computer vision
+-  Data-driven optimization
+-  Machine learning
+-  Computer vision
 
 education:
   courses:
@@ -56,7 +56,8 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
+Currently work in Qualcomm Technologies, Inc.
 
 
