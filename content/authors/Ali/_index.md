@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: Ph.D. Candidate
+role: Ph.D. （2023）
 
 # Organizations/Affiliations
 organizations:
@@ -59,7 +59,7 @@ email: ""
 # Organizational groups that you belong to (for People widget)
 #   Set this to `[]` or comment out if you are not using People widget.
 user_groups:
-- Grad Students
+- Alumni
 ---
 
-Ali received his B.S. and M.S in Electronic Engineering Technology from Arizona State University, Tempe, Arizona, in 2010, 2013. He is currently a Ph.D. candidate in the Department of Electrical and Computer Engineering at Florida State University. His research interest is around Power system security and control.
+Ali received his B.S. and M.S in Electronic Engineering Technology from Arizona State University, Tempe, Arizona, in 2010, and 2013. He obtained Ph.D. candidate in the Department of Electrical and Computer Engineering at Florida State University in 2023. His research interest is around Power system security and control.
