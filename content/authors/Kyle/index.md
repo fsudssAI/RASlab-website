@@ -10,7 +10,7 @@ authors:
 superuser: false
 
 # Role/position
-role: 
+role: Undergrad
 
 # Organizations/Affiliations
 organizations:
@@ -18,7 +18,7 @@ organizations:
   url: "https://www.fsu.edu/"
 
 # Short bio (displayed in user profile at end of posts)
-bio:
+bio: Kyle Lozano is an Undergraduate Mechanical Engineering Student graduating in the Spring of 2024 and working in the Resilient and Autonomous Systems Lab at Florida State University. His research interests include autonomous vehicles, autonomous racecars, regenerative suspension, and machine learning.
 interests:
 - Autonomous Vehicles
 - Vehicle Design
@@ -43,12 +43,12 @@ social:
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/yu-zheng-b2a16615a/
-- icon: cv
-  icon_pack: ai
-  link: https://portfolium.com/KyleLozano
 - icon: github
   icon_pack: fab
   link: https://github.com/kylejlozano
+- icon: external-link-alt
+  icon_pack: fas
+  link: https://portfolium.com/KyleLozano
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
 # - icon: cv
