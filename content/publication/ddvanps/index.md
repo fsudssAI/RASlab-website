@@ -3,7 +3,7 @@ title: "Data-driven Vulnerability Analysis of Networked Pipeline System"
 authors:
 - Yu Zheng
 - Olugbenga Moses Anubi
-date: "2021-05-25T00:00:00Z"
+date: "2023-08-18T00:00:00Z"
 doi: "10.23919/ACC50511.2021.9482913"
 
 # Schedule page publish date (NOT publication's date).
