@@ -39,10 +39,10 @@ education:
 social:
 - icon: envelope
   icon_pack: fas
-  link: 'yz19b@fsu.edu'
+  link: 'kjl18bj@fsu.edu'
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/yu-zheng-b2a16615a/
+  link: https://www.linkedin.com/in/kyle-lozano/
 - icon: github
   icon_pack: fab
   link: https://github.com/kylejlozano
