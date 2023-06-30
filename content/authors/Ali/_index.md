@@ -62,4 +62,4 @@ user_groups:
 - Alumni
 ---
 
-Ali received his B.S. and M.S in Electronic Engineering Technology from Arizona State University, Tempe, Arizona, in 2010, and 2013. He obtained Ph.D. candidate in the Department of Electrical and Computer Engineering at Florida State University in 2023. His research interest is around Power system security and control.
+Ali received his Ph.D. in the Department of Electrical and Computer Engineering at Florida State University in 2023 and received his B.S. and M.S in Electronic Engineering Technology from Arizona State University, Tempe, Arizona, in 2010, and 2013. His research interest is around Power system security and control. He is currently 
