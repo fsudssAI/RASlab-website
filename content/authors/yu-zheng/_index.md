@@ -20,10 +20,10 @@ organizations:
 # Short bio (displayed in user profile at end of posts)
 bio: My research interests include concurrent learning, and resilient control and estimation design for cyber-physical systems and autonomous systems
 interests:
-- Resilient Control and Estimation
+- Dynamical Control and Estimation
+- Optimization
 - Deep Learning
-- Multi-agent Systems
-- Robotics
+- Autonomous Driving
 
 education:
   courses:
