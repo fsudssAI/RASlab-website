@@ -19,12 +19,12 @@ organizations:
 
 # Short bio (displayed in user profile at end of posts)
 bio: Kyle Lozano is an Undergraduate Mechanical Engineering Student graduating in the Spring of 2024 and working in the Resilient and Autonomous Systems Lab at Florida State University. His research interests include autonomous vehicles, autonomous racecars, regenerative suspension, and machine learning.
+
 interests:
 - Autonomous Vehicles
 - Vehicle Design
 - Vehicle Suspension
 - Machine Learning
-
 
 education:
   courses:
