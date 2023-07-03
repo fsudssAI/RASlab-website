@@ -31,7 +31,7 @@ links:
 url_pdf: https://github.com/fsudssAI/starter-hugo-research-group/tree/main/content/publication/mnlmcofimifo/mnlmcofimifo.pdf
 url_code: ''
 url_dataset: ''
-url_poster: ''
+url_poster: 'https://github.com/fsudssAI/starter-hugo-research-group/tree/main/content/publication/mnlmcofimifo/slide.pdf'
 url_project: ''
 url_slides: ''
 url_source: ''
