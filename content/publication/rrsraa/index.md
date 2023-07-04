@@ -1,11 +1,12 @@
 ---
 title: "Robust Resilient Signal Reconstruction under Adversarial Attacks"
 authors:
+- Yu Zheng
 - Anubi, Olugbenga Moses
 - Lalit Mestha
 - Hema Achanta
-date: "2018-07-20T00:00:00Z"
-doi: "arXiv:1807.08004"
+date: "2023-07-03T00:00:00Z"
+doi: "10.23919/ACC55779.2023.10156170"
 
 # Schedule page publish date (NOT publication's date).
 publishDate: "2017-01-01T00:00:00Z"
@@ -17,10 +18,10 @@ publishDate: "2017-01-01T00:00:00Z"
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: Submitted to *arXiv.org*
-publication_short: In *arXiv*
+publication: *2023 American Control Conference (ACC)*
+publication_short: In *ACC 2023*
 
-abstract: This paper considers the problem of optimal estimation for linear system with the measurement vector subject to arbitrary corruption by an adversarial agent. This problem is relevant to cyber-physical systems where, due to the tight coupling of physics, communication and computation, a malicious agent is able to exploit multiple inherent vulnerabilities in order to inject stealthy signals into the measurement process. These malicious signals are calculated to serve the attack objectives of causing false situation awareness and/or triggering a sequence of cascading effects leading to an ultimate system failure. We assume that the attacker can only compromise a portion, but not all, of the measurement channels simultaneously. However, once a channel is compromised, the attacker is free to modify the corresponding measurement arbitrarily. Consequently, the problem is formulated as a compressive sensing problem with additional prior-information model. The prior-information considered is a set inclusion constraint on the measurement vector. It is shown that if the prior set satisfies certain conditions, the resulting recovery error bound is much stronger. The approach is applied to the problem of resilient sate estimation of a power system. For this application, Gaussian Process is used to build a prior generative probabilistic regression model from historical data. The resulting Gaussian Process Regression model recursively maps energy market information to Gaussian distributions on the relevant system measurements. An optimization-based resilient state estimator is then developed using a re-weighted L1 minimization scheme. The developed algorithm is evaluated through a numerical simulation example of the IEEE 14-bus system mapped to the New York Independent System Operator (NYISO) grid data.
+abstract: We consider the problem of signal reconstruction for a system under sparse signal corruption by a malicious agent. The reconstruction problem follows the standard error coding problem that has been studied extensively in the literature. We include a new challenge of robust estimation of the attack support. The problem is then cast as a constrained optimization problem merging promising techniques in the area of deep learning and estimation theory. A pruning algorithm is developed to reduce the "false positive" uncertainty of data-driven attack localization results, thereby improving the probability of correct signal reconstruction. Sufficient conditions for the correct reconstruction and the associated reconstruction error bounds are obtained for both exact and inexact attack support estimation. Moreover, a simulation of a water distribution system is presented to validate the proposed techniques.
 
 # Summary. An optional shortened abstract.
 summary: 
@@ -30,12 +31,12 @@ tags:
 featured: true
 
 links:
-url_pdf: https://github.com/fsudssAI/starter-hugo-research-group/new/main/content/publication/rrsraa/rrsraa.pdf
-url_code: ''
+url_pdf: https://ieeexplore.ieee.org/document/10156170
+url_code: 'https://github.com/ZYblend/Resilient_Observers_Comparison/tree/robust_resilient_least_square_estimator'
 url_dataset: ''
 url_poster: ''
 url_project: ''
-url_slides: ''
+url_slides: 'https://github.com/fsudssAI/starter-hugo-research-group/tree/main/content/publication/rrsraa/slide.pdf'
 url_source: ''
 url_video: ''
 
