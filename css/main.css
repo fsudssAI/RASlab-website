@@ -1,0 +1,1940 @@
+/* ------- Globals -------- */
+body{
+    height: 100vh;
+    overflow-x: hidden;
+    overflow-y: auto;
+    background-color: rgb(29, 29, 29);
+}
+
+#home{
+    position: relative;
+    width: 100%;
+    min-height: 100vh;
+    height: auto;
+}
+
+#waves{
+    position: relative;
+    width: 100%;
+    height: 24vh;
+    background-image: url(../img/waves.png);
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+
+#people{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: #373737;
+    background-repeat: repeat;
+}
+
+#news{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-image: url(../img/newsbackground.png);
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: bottom;
+    background-color: #272727;
+}
+
+#allnews{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: #272727;
+}
+
+#publications{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: #373737;
+}
+
+#allpublications{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: #272727;
+}
+
+#teaching{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: #272727;
+}
+
+#allclasses{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: #272727;
+}
+
+#positions{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: #373737;   
+}
+
+#allpositions{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: #272727;
+}
+
+#resources{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color:#272727;
+    
+}
+
+#allresources{
+    position: relative;
+    width: 100%;
+    height: auto;
+    background-color: #272727;
+}
+
+footer{
+    position: relative;
+    overflow: hidden;
+    width: 100%;
+    background-color: rgb(29, 29, 29);
+    height: auto;
+    background-image: url(../img/waves2.png);
+    background-size: fit;
+    background-repeat: no-repeat;
+}
+
+h2{    /* Section Header */
+    font-family: "Ubuntu";
+    color: white;
+    font-size: 35px;
+}
+
+h3{    /* People Classifications Header */
+    font-family: "Ubuntu";
+    color: white;
+    font-size: 25px;
+}
+
+h4{    /* People's Names */
+    font-family: "Roboto", sans-serif;
+    color: white;
+    transform: translateX(-8%);
+    width: 120%;
+    font-size: 15px;
+    line-height: 1.5;
+    font-weight: lighter;
+    margin-top: 10px;
+}
+
+.header-underline{
+    position: relative;
+    transform: translateX(-50%);
+    left: 50%;
+    height: 5px;
+    background-color: #319da5a2;
+}
+
+.header-underline2{
+    position: relative;
+    transform: translate(-50%, -50%);
+    left: 50%;
+    height: 10px;
+    background-color: #319da5a2;
+}
+
+.all-btn{
+    text-decoration: none;
+    color: white;
+    border: solid white 2px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    border-radius: 30px;
+    padding: 10px 15px;
+    transition: all .2s ease;
+}
+
+.all-btn:hover{
+    background-color: white;
+    color: rgb(48, 48, 48);
+    text-decoration: none;
+}
+
+/* ------- Fonts -------- */
+@font-face{
+    font-family: Azonix;
+    src: url(../fonts/Azonix-1VB0.otf);
+}
+
+/* --------- SCROLL BAR --------- */
+::-webkit-scrollbar {
+    width: 10px;                                  
+    height: 10px;
+    background-color: transparent;
+}
+/* Add a thumb */                               
+::-webkit-scrollbar-thumb {
+    background: rgb(94, 94, 94);
+}
+
+/* ------- Navigation Bar -------- */
+#navbar{
+    z-index: 100;
+    position: fixed;
+    right: 2%;
+    top: 2%;
+    width: 750px;
+    height: auto;
+    color: rgb(214, 214, 214);
+    font-family: 'Ubuntu';
+    font-weight: 400;
+    text-align: center;
+    padding: 10px 0px;
+    background-color: #363636a1;
+    border-radius: 100px;
+    display: none;
+    transition: .3s ease-in-out;
+}
+
+#navbar a{
+    font-size: 17px;
+    padding: 0px 1.5%;
+    text-decoration: none;
+    color: rgb(214, 214, 214);
+    font-weight: 400;
+    transition: .2s ease-in-out;
+}
+
+#small-navbar{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    z-index: 100;
+    width: 100vw;
+    height: auto;
+    position: fixed;
+    background-color: #363636e7;
+    color: rgb(214, 214, 214);
+    box-shadow: 0px 5px 5px rgba(26, 26, 26, 0.596);
+    font-family: 'Ubuntu';
+    font-weight: 400;
+    text-align: center;
+    transition: .3s ease-in-out;
+}
+
+#small-navbar a{
+    font-size: 17px;
+    padding: 0px 2.3%;
+    line-height: 2;
+    text-decoration: none;
+    color: rgb(214, 214, 214);
+    font-weight: 400;
+    transition: .2s ease-in-out;
+}
+
+
+/* ------- Home Section -------- */
+.home-title{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    min-width: 800px;
+    top: 30%;
+    left: 50%;
+    width: 50%;
+    margin: auto;
+
+}
+
+.home-title h1{
+    font-size: 60px;
+    font-family: Azonix;
+    color: #319da5;
+    font-weight: 100;
+}
+
+.home-desc{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    min-width: 800px;
+    top: 50%;
+    left: 50%;
+    width: 50%;
+    margin: auto;
+
+}
+
+.home-desc p{
+    color: rgb(214, 214, 214);
+    font-size: 22px;
+    font-family: 'Ubuntu';
+    line-height: 1.7;
+}
+
+.home-icons{
+    position: absolute;
+    transform: translate(-50%, -50%);
+    min-width: 800px;
+    bottom: 10%;
+    left: 50%;
+    width: 50%;
+    margin: auto;
+}
+
+.home-icons img{
+    height: 70px;
+    margin: 5%;
+}
+
+#dsslogo{
+    position: absolute;
+    top: 3%;
+    left: 2%;
+    min-width: 150px;
+    width: 11vw;
+}
+
+.fsulogo{
+    position: absolute;
+    padding-top: 100px;
+    bottom: 2%;
+    right: 1%;
+}
+
+.fsulogo img{
+    min-width: 170px;
+    width: 11vw;
+}
+
+#powerlines{
+    z-index: -1;
+    position: absolute;
+    background-image: url(../img/wpowerlines.png);
+    background-position: bottom;
+    background-size: cover;
+    background-repeat: no-repeat;
+    width: 100%;
+    height: 100%;
+    top: 0;
+    left: 0;
+    opacity: .3;
+}
+
+
+/* ------- People Section -------- */
+.team-row{
+    max-width: 60%;
+    margin: auto;
+}
+
+.team-col{
+    min-width: 160px;
+    max-width: 160px;
+}
+
+.round-headshot{
+    border-radius: 100%;
+    width: 100%;
+    transition: transform .2s ease-in-out;
+}
+
+.round-headshot:hover{
+    transform: scale(1.1);
+    opacity: 0.8;
+}
+
+.member h4:hover, .member a:hover{
+    color: #37b2bb;
+    text-decoration: none;
+}
+
+/* ------- News Section -------- */
+
+.news-row{
+    max-width: 60%;
+    margin: auto;
+    padding: 0;
+}
+
+.news-col{
+    border-top: solid rgb(70, 70, 70) 2px;
+    padding: 2% 10px;
+    min-height: 120px;
+}
+
+.news-pbox{
+    position: relative;
+    transform: translateY(-50%);
+    top: 55%;
+    max-width: 75%;
+    float:left;
+}
+
+.news-row p{
+    position: relative;
+    line-height: 1.7;
+    font-family: "Roboto", sans-serif;
+    font-size: 17px;
+    font-weight: lighter;
+    color: white;
+    text-align: left;
+}   
+
+.news-h1box{
+    position: relative;
+    transform: translateY(-50%);
+    top: 55%;
+    float:right;
+    width: 130px;
+}
+
+.news-row h1{
+    position: relative;
+    width: auto;
+    color: #37b2bb;
+    font-family: "Ubuntu";
+    font-weight: 500;
+    font-size: 20px;
+    text-align: left;
+}
+
+.news-imgbox{
+    position: relative;
+    transform: translateY(-50%);
+    top: 55%;
+    max-width: 400px;
+    float:left;
+    margin-left: 50px;
+    padding-bottom: 10px;
+}
+
+.news-imgbox img{
+    position: relative;
+    width: 100%;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.151);
+}
+
+.news-pbox a{
+    color: #39ccd6;
+    transition: color .1s ease;
+}
+
+.news-pbox a:hover{
+    color: #24838a;
+    text-decoration: none;
+}
+
+
+
+/* ------- Publications Section -------- */
+.recent-pub-row{
+    max-width: 50%;
+    min-width: 1100px;
+    margin: auto;
+    margin-bottom: 10px;
+    padding: 0;
+}
+
+.number{
+    position: relative;
+    float: left;
+    background-color: rgb(46, 46, 46);
+    border-radius: 50%;
+    margin-left: 3%;
+    margin-top: 0.5%;
+    width: 40px;
+    height: 40px;
+    text-align: center;
+    line-height: 2;
+    font-family: "Ubuntu", sans-serif;
+    color: #319da5; 
+    font-weight: 600;
+    font-size: 20px;
+}
+
+.recent-pub{
+    position: relative;
+    float: right;
+    width: 90%;
+}
+
+.recent-pub h3{
+    position: relative;
+    float: left;
+    font-size: 22px;
+    line-height: 1.4;
+}
+
+.recent-pub a{
+    color: white;
+}
+
+.recent-pub a:hover{
+    color: #319da5;
+    text-decoration: none;
+    transition: .1s ease-in-out;
+}
+
+.recent-pub span{
+    color: #319da5; 
+    font-weight: 200;
+}
+
+.recent-pub p{
+    position: relative;
+    line-height: 1;
+    width: 100%;
+    float: left;
+    color: rgb(184, 184, 184);
+    font-family: "Roboto", sans-serif;
+}
+
+
+
+/* ------- Teaching Section -------- */
+.teaching-row{
+    max-width: 60%;
+    min-width: 1000px;
+    margin: auto;
+}
+
+.teaching-col{
+    margin: auto;
+    min-width: 300px;
+    margin-bottom: 100px;
+}
+
+.teaching-col h3{
+    font-size: 30px;
+    color: #319da5; 
+}
+
+.teaching-col h2{
+    margin-top: 20px;
+    font-family: "Roboto";
+    color: white;
+    font-size: 17px;
+    font-weight: normal;
+    transition: color .2s ease;
+}
+
+.teaching-col a{
+    margin-top: 20px;
+    font-family: "Roboto";
+    color: white;
+    font-size: 17px;
+    font-weight: normal;
+    transition: color .2s ease;
+}
+
+.teaching-col a:hover{
+    text-decoration: none;
+    color: #319da5;
+}
+
+.teaching-col p{
+    font-family: "Roboto";
+    color: rgb(175, 175, 175);
+    font-size: 15px;
+    font-weight: 400;
+    margin-bottom: 20px;
+}
+
+.syllabus-btn a{
+    font-family: "Roboto";
+    color: white;
+    font-size: 15px;
+    font-weight: 400;
+    border: solid white 2px;
+    border-radius: 20px;
+    padding: 5px 10px;
+    transition: .3s ease;
+}
+
+.syllabus-btn a:hover{
+    font-weight: 500;
+    text-decoration: none;
+    color: rgb(43, 43, 43);
+    background-color: white;
+}
+
+
+
+/* ------- Positions Section -------- */
+.positions-row{
+    max-width: 80%;
+    margin: auto;
+}
+
+.positions-col{
+    margin: auto;
+    max-width: 400px;
+    min-width: 400px;
+    height: 400px;
+    margin-bottom: 30px;
+}
+.positions-box{
+    width: 100%;
+    height: auto;
+    padding-bottom: 50px;
+    border-radius: 10px;
+    background-color: rgb(46, 46, 46);
+    overflow: hidden;
+    border-bottom: solid #267379 4px;
+    box-shadow: -5px 5px 10px rgba(0, 0, 0, 0.295);
+    transition: transform .2s ease;
+}
+
+.positions-box:hover{
+    transform: scale(1.05);
+}
+
+.positions-box-header{
+    min-height: 90px;
+    color: rgb(241, 241, 241);
+    text-align: center;
+    background-color: #267379;
+    box-shadow: 0px 2px 5px rgba(0, 0, 0, 0.418);
+}
+
+.positions-box-header h2{
+    font-size: 22px;
+    padding: 16px 0px;
+}
+
+.positions-box p{
+    font-family: "Roboto";
+    line-height: 1.6;
+    color: white;
+    padding: 20px 20px;
+    height: auto;
+}
+
+.positions-btn{
+    text-decoration: none;
+    color: white;
+    border: solid white 2px;
+    font-family: "Roboto", sans-serif;
+    font-weight: 500;
+    border-radius: 30px;
+    padding: 10px 15px;
+    transition: all .2s ease;
+}
+
+.positions-btn:hover{
+    background-color: white;
+    color: rgb(48, 48, 48);
+    text-decoration: none;
+}
+
+
+
+/* ------- Resources Section -------- */
+.resources-row{
+    max-width: 35%;
+    margin: auto;
+}
+
+.resources-col{
+    margin: auto;
+    min-width: 250px;
+    height: auto;
+}
+
+.resources-box{
+    width: 100%;
+}
+
+.resources-box h3{
+    margin-top: 10px;
+    font-size: 15px;
+    color: rgb(224, 224, 224);
+    transition: color .2s ease;
+}
+
+.resources-box h3:hover{
+    color: #319da5; 
+}
+
+.resources-box a{
+    text-decoration: none;
+}
+
+.resources-box img{
+    transition: .2s ease;
+}
+
+.resources-box img:hover{
+    transform: scale(1.05);
+    opacity: 0.8;
+}
+
+#lab-photo{
+    border-radius: 10px;
+    box-shadow: 0px 10px 20px rgba(0, 0, 0, 0.247);
+    width: 500px;
+}
+
+#lab-photo-desc{
+    position: absolute;
+    transform: translateX(-50%);
+    left: 50%;
+    bottom: 0;
+    color: white;
+    font-size: 30px;
+}
+
+/* ------- Footer -------- */
+.contact-row{
+    max-width: 70%;
+    margin: auto;
+}
+
+.contact-col{
+    height: auto;
+}
+
+.contact-col h2{
+    color: white;
+    font-size: 22px;
+}
+
+.contact-col p {
+    color: white;
+    font-size: 16px;
+    line-height: 2;
+}
+
+.contact-col span{
+    color: #319da5;
+    font-weight: bold;
+}
+
+.contact-col a{
+    color: white;
+    transition: color .2s ease;
+    margin-left: 10px;
+    line-height: 2;
+}
+
+.contact-col a:hover{
+    color: #319da5;
+    text-decoration: none;
+}
+
+.contact-col i{
+    font-size: 13px;
+}
+
+.footer-underline{
+    position: relative;
+    transform: translateX(-50%);
+    left: 50%;
+    width: 100px;
+    height: 3px;
+    background-color: #319da5;
+    margin-bottom: 20px;
+}
+
+.vertical-line{
+    position: absolute;
+    transform: translateY(-50%);
+    top: 50%;
+    right: 0;
+    width: 1px;
+    height: 200px;
+    background-color: rgb(112, 112, 112);
+}
+
+.leandro{
+    position: absolute;
+    height: 100px;
+    left: 30px;
+    bottom: 30px;
+}
+
+.leandro img{
+    position: absolute;
+    bottom: 0;
+    transition: .3s ease;
+}
+
+.leandro img:hover{
+    transform: scale(1.2);
+    opacity: 0.7;
+}
+
+
+
+
+
+
+/* ------- All News Page -------- */
+.allnews-row{
+    max-width: 80%;
+    margin: auto;
+    border-top: solid grey 1px;
+}
+
+.allnews-col{
+    padding-top: 10px;
+    padding-bottom: 10px;
+    padding-left: 30px;
+    padding-right: 30px;
+}
+
+.allnews-col h2{
+    position: relative;
+    transform: translateY(-50%);
+    top: 55%;
+    float:left;
+    font-size:20px;
+    height: auto;
+    width: 12%;
+    min-width: 140px;
+    color: rgb(0, 204, 211);
+}
+
+.allnews-col p{
+    position: relative;
+    transform: translateY(-50%);
+    top: 55%;
+    color: white;
+    float: left;
+    width: 88%;
+    font-family: "Roboto";
+    font-size: 16px;
+    font-weight: 400;
+}
+
+.allnews-imgbox{
+    width: 100%;
+    height: 300px;
+    min-width: 400px;
+    float: right;
+}
+
+.allnews-imgbox h2{
+    top: 50%;
+    float: left;
+}
+
+.allnews-imgbox p{
+    width: auto;
+    top: 50%;
+    float: left;
+}
+
+.allnews-imgbox img{
+    margin: 40px 0px;
+    width: 100%;
+    max-width: 400px;
+    border-radius: 5px;
+    box-shadow: 0px 5px 10px rgba(0, 0, 0, 0.151);
+    float: left;
+    margin-left: 50px;
+}
+
+.allnews-col a{
+    color: #39ccd6;
+    transition: color .1s ease;
+}
+
+.allnews-col a:hover{
+    color: #24838a;
+    text-decoration: none;
+}
+
+
+/* ------- All Publications Page -------- */
+
+.publication-row{
+    overflow: hidden;
+    width: auto;
+    height: 400px;
+    max-width: 80%;
+    min-width: 50%;
+    padding-left: 10px;
+    border: solid rgba(70, 70, 70, 0) 2px;
+    background-color: rgb(33, 33, 33);
+    transition: height .5s ease-in-out;
+}
+
+#patents-row{
+    height: 200px;
+}
+
+.publication-btn{
+    background-color: transparent;
+    border: solid rgb(211, 211, 211) 2px;
+    outline: none;
+    padding: 5px;
+    color: rgb(211, 211, 211);
+    font-family: "Ubuntu", sans-serif;
+    font-weight: 500;
+    cursor: pointer;
+    transition: all .2s ease-in-out;
+}
+
+.publication-btn:hover{
+    transform: scale(1.1);
+    color: rgb(41, 41, 41);
+    background-color: rgb(211, 211, 211);
+}
+
+#patents-btn{
+    display: none;
+}
+
+#journals-btn{
+    display: inline;
+}
+
+#books-btn{
+    display: inline;
+}
+
+.expand{
+    height: auto;
+}
+
+.publication-col{
+    margin-bottom: 0;
+    margin-top:20px;
+    margin-bottom: 20px; 
+    padding: 0; 
+    min-width: 450px;
+    max-height: 150px;
+}
+
+.publication-box{
+    position: relative;
+    margin: 0;
+    padding: 0;
+    max-width: 100%;
+    min-width: 400px;
+    height: 160px;
+    max-height: 160px;
+    overflow: hidden;
+}
+
+.publication-box img{
+    position: relative;
+    float: left;
+    height: 160px;
+    min-height: 160px;
+}
+
+.publication-title{
+    position: relative;
+    width: 73%;
+    font-family: "Ubuntu", sans-serif;
+    padding-left: 15px;
+    color: #319da5; 
+    line-height: 1;
+    padding-bottom: 10px;
+    font-size: 18px;
+    font-weight: 500;
+    float: left;
+}
+
+.publication-title:visited{
+    text-decoration: none;
+}
+
+.publication-title:hover{
+    text-decoration: none;
+    color: #216d72; 
+}
+
+h5{
+    position: relative;
+    width: 73%;
+    font-family: "Ubuntu", sans-serif;
+    padding-left: 15px;
+    color: #319da5; 
+    font-size: 18px;
+    float: left;
+}
+
+.publication-desc{
+    position: relative;
+    float: left;
+    width: 73%;
+    padding-left: 15px;
+    min-height: 110px;
+    font-size: 15px;
+    color: white;
+    line-height: 1.3;
+    font-family: "Roboto", sans-serif;
+}
+
+.publication-desc span{
+    color: rgb(165, 165, 165);
+}
+
+
+/* ------- All Positions Page -------- */
+.allpositions-row{
+    max-width: 60%;
+    margin: auto;
+    line-height: 1.6;
+}
+
+#allpositions p{
+    color: white;
+    font-family: "Roboto", sans-serif;
+    font-size: 17px;
+}
+
+#allpositions span{
+    color: #37b2bb; 
+    font-weight: bold;
+}
+
+#allpositions a{
+    color: #37b2bb; 
+    font-weight: bold;
+    transition: color .2s ease;
+}
+
+#allpositions a:hover{
+    text-decoration: none;
+    color: #25787e; 
+}
+
+#grads{
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+#undergrads{
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+#postdocs{
+    position: relative;
+    width: 100%;
+    height: auto;
+}
+
+
+
+
+
+
+
+
+/* ------- Media Queries -------- */
+
+@media screen and (min-width: 1600px) {  /* Extra Large */
+    /* ----- Home Section -----*/
+    .home-icons{
+        bottom: 2%;
+    }
+
+    /* ------- Contact Section -------- */
+    .contact-row{
+        min-width: 1200px;
+    }
+
+    /* ----- All Articles Page -----*/
+    .publication-row{
+        height: 400px;
+        max-width: 83%;
+        min-width: 1400px;
+    }
+
+    #patents-row{
+        height: 200px;
+    }
+
+    .publication-header{
+        margin-left: 1%;
+    }
+
+    .expand{
+        height: auto;
+    }
+}
+
+@media screen and (min-width: 1200px) and (max-width: 1599px) {  /* Super Large */
+    
+    /* ----- Home Section -----*/
+    .home-icons{
+        bottom: 2%;
+    }
+
+    /* ----- People Section -----*/
+    .team-row{
+        max-width: 75%;
+    }
+
+    /* ----- News Section -----*/
+    .news-row{
+        max-width: 80%;
+    }
+
+    /* ------- Positions Section -------- */
+    .positions-row{
+        max-width: 70%;
+    }
+
+    /* ------- Resources Section -------- */
+    .resources-row{
+        max-width: 45%;
+    }
+
+    /* ------- Contact Section -------- */
+    .contact-row{
+        min-width: 1200px;
+        margin: auto;
+    }
+    
+    .contact-col{
+        height: auto;
+    }
+
+    /* ----- All Articles Page -----*/
+    #journals-btn{
+        display: inline;
+    }
+
+    .publication-row{
+        height: 400px;
+        margin-left: 9vw;
+        max-width: 80%;
+        min-width: 1100px;
+    }
+
+    .publication-col{
+        min-width: 540px;
+    }
+
+    #patents-row{
+        height: 200px;
+    }
+
+    .publication-header{
+        margin-left: 1%;
+    }
+
+    .expand{
+        height: auto;
+    }
+    
+    /* ------ All News Page ------- */
+    .allnews-col{
+        padding-right: 0;
+    }
+    
+    .allnews-col p{
+        width: 83%;
+    }
+    
+    .allnews-imgbox p{
+        width: auto;
+    }
+
+    /* ----- All Positions Page -----*/
+    .allpositions-row{
+        max-width: 70%;
+    }
+}
+
+@media screen and (min-width: 992px) and (max-width: 1199px) {  /* Large */
+    /* ----- Home Section -----*/
+    .home-icons{
+        bottom: 2%;
+    }
+
+    /* ----- People Section -----*/
+    .team-row{
+        max-width: 75%;
+    }
+
+    /* ----- News Section -----*/
+    .news-row{
+        max-width: 80%;
+    }
+
+    /* ------- Publications Section -------- */
+    .recent-pub-row{
+        max-width: 50%;
+        min-width: 950px;
+    }
+
+    /* ------- Teaching Section -------- */
+    .teaching-row{
+        max-width: 80%;
+        min-width: 0%;
+    }
+    
+    .teaching-col{
+        min-width: 300px;
+    }
+
+    /* ------- Positions Section -------- */
+    .positions-row{
+        max-width: 80%;
+    }
+
+    /* ------- Resources Section -------- */
+    .resources-row{
+        max-width: 55%;
+    }
+
+    /* ------- Contact Section -------- */
+    .contact-row{
+        max-width: 90%;
+        margin: auto;
+    }
+    
+    .contact-col{
+        height: auto;
+    }
+    
+    /* ----- All Articles Page -----*/
+    #journals-btn{
+        display: inline;
+    }
+
+    .publication-row{
+        height: 400px;
+        max-width: 92%;
+        margin-left: 4%;
+    }
+
+    #patents-row{
+        height: 200px;
+    }
+
+    .publication-btn{
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+
+    .publication-header{
+        margin-left: 4%;
+    }
+
+    .expand{
+        height: auto;
+    }
+
+    /* ----- All News Page ------*/
+    .allnews-col{
+        padding-right: 0;
+    }
+    
+    .allnews-col p{
+        width: 80%;
+    }
+    
+    .allnews-imgbox p{
+        width: auto;
+    }
+
+    /* ----- All Positions Page -----*/
+    .allpositions-row{
+        max-width: 80%;
+    }
+
+  }
+
+@media screen and (min-width: 776px) and (max-width: 991px) {    /* Medium */
+    
+    /* ----- Home Section -----*/
+    .home-title{
+        min-width: 700px;
+        width: 80%;
+    }
+    
+    .home-title h1{
+        font-size: 50px;
+    }
+    
+    .home-desc{
+        min-width: 700px;
+        width: 80%;
+    }
+    
+    .home-desc p{
+        font-size: 20px;
+    }
+    
+    .home-icons{
+        min-width: 700px;
+        bottom: 2%;
+        width: 80%;
+    }
+    
+    .home-icons img{
+        height: 70px;
+        margin: 4%;
+    }
+
+    /* ----- People Section -----*/
+    .team-row{
+        max-width: 80%;
+    }
+
+    /* ----- News Section -----*/
+    .news-row{
+        max-width: 90%;
+    }
+
+    .news-pbox, .news-h1box{
+        float:none;
+        width: 100%;
+        min-width: 100%;
+        transform: translateY(0%);
+        top: 0;
+    }
+
+    .news-h1box h1{
+        text-align: center;
+        padding-top: 15px;
+        font-size: 22px;
+    }
+    .news-pbox p{
+        text-align: center;
+        font-size: 17px;
+    }
+
+    .news-imgbox{
+        transform: translateX(-50%);
+        left: 50%;
+        top: 0px;
+        margin: auto;
+        padding-bottom: 20px;
+    }
+
+    /* ------- Publications Section -------- */
+    .recent-pub-row{
+        max-width: 80%;
+        min-width: 700px;
+    }
+
+    .number{
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    /* ------- Teaching Section -------- */
+    .teaching-row{
+        max-width: 80%;
+        min-width: 0%;
+    }
+    
+    .teaching-col{
+        min-width: 300px;
+    }
+
+    /* ------- Positions Section -------- */
+    .positions-row{
+        max-width: 70%;
+    }
+
+    /* ------- Resources Section -------- */
+    .resources-row{
+        max-width: 75%;
+    }
+
+    #lab-photo{
+        width: 400px;
+    }
+
+    /* ------- Contact Section -------- */
+    .contact-row{
+        max-width: 90%;
+        margin: auto;
+    }
+    
+    .contact-col{
+        margin: auto;
+        height: 200px;
+        min-width: 50%;
+    }
+
+    /* ----- All Articles Page -----*/
+    .publication-header{
+        margin-left: 2%;
+    }
+
+    #journals-btn{
+        display: inline;
+    }
+
+    .publication-row{
+        height: 590px;
+        max-width: 92%;
+        margin-left: 4%;
+    }
+
+    #patents-row{
+        height: 200px;
+    }
+
+    .publication-btn{
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+
+    .publication-header{
+        margin-left: 4%;
+    }
+
+    .expand{
+        height: auto;
+    }
+
+    /* ----- All News Page -----*/
+    .allnews-row{
+        max-width: 85%;
+    }
+    
+    .allnews-col{
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 0;
+    }
+    
+    .allnews-col p{
+        text-align: center;
+        transform: translateY(0);
+        top: 0;
+        width: 100%;
+    }
+
+    .allnews-col h2{
+        transform: translateY(0);
+        top: 0;
+        width: 100%;
+        text-align: center;
+    }
+
+    .allnews-imgbox{
+        height: auto;
+    }
+
+    .allnews-imgbox img{
+        position: relative;
+        width: 100%;
+        transform: translateX(-50%);
+        left: 50%;
+        margin: 0;
+        margin-bottom: 20px;
+    }
+
+    /* ----- All Positions Page -----*/
+    .allpositions-row{
+        max-width: 85%;
+    }
+
+  }
+
+  @media screen and (min-width: 576px) and (max-width: 775px) {   /* Small */
+    
+    /* ----- Home Section -----*/
+    .home-title{
+        min-width: 500px;
+        width: 90%;
+    }
+    
+    .home-title h1{
+        font-size: 40px;
+    }
+    
+    .home-desc{
+        top: 45%;
+        min-width: 500px;
+        width: 550px;
+    }
+    
+    .home-desc p{
+        font-size: 18px;
+    }
+    
+    .home-icons{
+        min-width: 0px;
+        bottom: 0%;
+        width: 500px;
+    }
+    
+    .home-icons img{
+        height: 65px;
+        margin: 8%;
+    }
+
+    /* ----- People Section -----*/
+    .team-row{
+        max-width: 80%;
+        min-width: 500px;
+    }
+
+    /* ----- News Section -----*/
+    
+    .news-row{
+        max-width: 90%;
+    }
+
+    .news-pbox, .news-h1box{
+        float:none;
+        width: 100%;
+        min-width: 100%;
+        transform: translateY(0%);
+        top: 0;
+    }
+
+    .news-h1box h1{
+        text-align: center;
+        padding-top: 15px;
+        font-size: 22px;
+    }
+    .news-pbox p{
+        text-align: center;
+        font-size: 17px;
+    }
+
+    .news-imgbox{
+        transform: translateX(-50%);
+        left: 50%;
+        top: 0px;
+        margin: auto;
+        padding-bottom: 20px;
+    }
+
+    /* ------- Publications Section -------- */
+    .recent-pub-row{
+        max-width: 90%;
+        min-width: 500px;
+    }
+    
+    .number{
+        margin-left: auto;
+        margin-right: auto;
+    }
+
+    /* ------- Teaching Section -------- */
+    .teaching-row{
+        max-width: 80%;
+        min-width: 0%;
+    }
+    
+    .teaching-col{
+        min-width: 300px;
+    }
+
+    /* ------- Positions Section -------- */
+    .positions-row{
+        max-width: 70%;
+    }
+
+    /* ------- Resources Section -------- */
+    .resources-row{
+        max-width: 75%;
+    }
+
+    .resources-col{
+        margin-bottom: 20px;
+    }
+
+    #lab-photo{
+        width: 400px;
+    }
+
+    
+    /* ------- Contact Section -------- */
+    .contact-row{
+        max-width: 90%;
+        margin: auto;
+        
+    }
+    
+    .contact-col{
+        height: auto;
+        min-width: 100%;
+        padding-bottom: 20px;
+    }
+
+    .contact-menu{
+        display: none;
+    }
+
+    .leandro{
+        position: relative;
+        left: 0;
+        bottom: 0;
+    }
+    
+    .leandro img{
+        transform: translate(-50%, -50%);
+        left: 50%;
+        top: 50%;
+        width: 50px;
+    }
+
+
+
+    /* ----- All Articles Page -----*/
+    .publication-header{
+        margin-left: 2%;
+    }
+
+    #journals-btn{
+        display: inline;
+    }
+
+    .publication-row{
+        height: 590px;
+        max-width: 92%;
+        margin-left: 4%;
+    }
+
+    #patents-row{
+        height: 200px;
+    }
+    
+    .publication-btn{
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+
+    .publication-header{
+        margin-left: 4%;
+    }
+
+    .expand{
+        height: auto;
+    }
+
+    /* ----- All News Page -----*/
+    .allnews-row{
+        max-width: 85%;
+    }
+    
+    .allnews-col{
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 0;
+    }
+    
+    .allnews-col p{
+        text-align: center;
+        transform: translateY(0);
+        top: 0;
+        width: 100%;
+    }
+
+    .allnews-col h2{
+        transform: translateY(0);
+        top: 0;
+        width: 100%;
+        text-align: center;
+    }
+
+    .allnews-imgbox{
+        height: auto;
+    }
+
+    .allnews-imgbox img{
+        position: relative;
+        width: 100%;
+        transform: translateX(-50%);
+        left: 50%;
+        margin: 0;
+        margin-bottom: 20px;
+    }
+
+    /* ----- All Positions Page -----*/
+    .allpositions-row{
+        max-width: 85%;
+    }
+
+  }
+
+  @media screen and (max-width: 575px) {   /* Extra Small */
+
+    /* ----- Globals -----*/
+    h2{
+        font-size: 6vw;
+    }
+
+    h3{
+        font-size: 5vw;
+    }
+
+    /* ----- Home Section -----*/
+    .home-title{
+        min-width: 0px;
+        width: 100%;
+    }
+    
+    .home-title h1{
+        font-size: 8vw;
+        line-height: 1.3;
+    }
+    
+    .home-desc{
+        top: 50%;
+        min-width: 0px;
+        width: 80%;
+    }
+    
+    .home-desc p{
+        font-size: 4vw;
+        line-height: 2;
+    }
+    
+    .home-icons{
+        min-width: 0px;
+        bottom: -10%;
+        width: 100%;
+    }
+    
+    .home-icons img{
+        width: 13vw;
+        height: auto;
+        margin: 8%;
+    }
+
+    /* ----- People Section -----*/
+    .team-row{
+        max-width: 80%;
+        min-width: 400px;
+    }
+    
+    .team-col{
+        margin: auto;
+        margin-top: 0;
+        margin-bottom: 10px;
+    }
+
+    /* ----- News Section -----*/
+    .news-row{
+        max-width: 90%;
+    }
+
+    .news-pbox, .news-h1box{
+        float:none;
+        width: 100%;
+        min-width: 100%;
+        transform: translateY(0%);
+        top: 0;
+    }
+
+    .news-h1box h1{
+        text-align: center;
+        padding-top: 15px;
+        font-size: 4vw;
+    }
+
+    .news-pbox p{
+        text-align: center;
+        font-size: 3.5vw;
+    }
+
+    .news-imgbox{
+        transform: translateX(-50%);
+        left: 50%;
+        top: 0px;
+        margin: auto;
+        padding-bottom: 20px;
+    }
+
+    /* ------- Publications Section -------- */
+    .recent-pub-row{
+        max-width: 90%;
+        min-width: 300px;
+    }
+
+    .recent-pub{
+        width: 85%;
+    }
+
+    .recent-pub h3{
+        font-size: 4vw;
+    }
+
+    .recent-pub p{
+        font-size: 3.5vw;
+    }
+
+    .number{
+        margin: 10px auto;
+    }
+
+    /* ------- Teaching Section -------- */
+    .teaching-row{
+        max-width: 80%;
+        min-width: 0%;
+    }
+    
+    .teaching-col{
+        min-width: 300px;
+    }
+
+    /* ------- Positions Section -------- */
+    .positions-row{
+        max-width: 100%;
+    }
+
+    .positions-col{
+        min-width: 85%;
+        min-height: 350px;
+    }
+
+    .positions-box{
+        min-height: 350px;
+    }
+
+    .positions-box h2{
+        font-size: 5vw;
+    }
+
+    .positions-box p{
+        font-size: 4vw;
+    }
+
+    /* ------- Resources Section -------- */
+    .resources-row{
+        max-width: 75%;
+    }
+
+    .resources-col{
+        margin-bottom: 25px;
+    }
+
+    #lab-photo{
+        width: 300px;
+    }
+
+    /* ------- Contact Section -------- */
+    .contact-row{
+        max-width: 90%;
+        margin: auto;
+        
+    }
+    
+    .contact-col{
+        height: auto;
+        min-width: 100%;
+        padding-bottom: 20px;
+    }
+
+    .contact-menu{
+        display: none;
+    }
+
+    .leandro{
+        position: relative;
+        left: 0;
+        bottom: 0;
+    }
+    
+    .leandro img{
+        transform: translate(-50%, -50%);
+        left: 50%;
+        top: 50%;
+        width: 50px;
+    }
+
+    /* ----- All Articles Page -----*/
+    #journals-btn{
+        display: inline;
+    }
+
+    .publication-row{
+        height: 590px;
+        max-width: 92%;
+        margin-left: 4%;
+    }
+
+    #patents-row{
+        height: 200px;
+    }
+
+    .publication-btn{
+        margin-top: 2%;
+        margin-bottom: 2%;
+    }
+
+    .publication-header{
+        margin-left: 4%;
+    }
+
+    .expand{
+        height: auto;
+    }
+
+    /* ----- All News Page -----*/
+    .allnews-row{
+        max-width: 85%;
+    }
+    
+    .allnews-col{
+        padding-left: 10px;
+        padding-right: 10px;
+        padding-bottom: 0;
+    }
+    
+    .allnews-col p{
+        text-align: center;
+        transform: translateY(0);
+        top: 0;
+        width: 100%;
+    }
+
+    .allnews-col h2{
+        transform: translateY(0);
+        top: 0;
+        width: 100%;
+        text-align: center;
+    }
+
+    .allnews-imgbox{
+        height: auto;
+    }
+
+    .allnews-imgbox img{
+        position: relative;
+        width: 100%;
+        transform: translateX(-50%);
+        left: 50%;
+        margin: 0;
+        margin-bottom: 20px;
+    }
+
+    /* ----- All Positions Page -----*/
+    .allpositions-row{
+        max-width: 90%;
+    }
+  }
+
+  @media screen and (max-width: 400px){
+    /* ----- Home Section -----*/
+    
+
+    .publication-row img{
+        display: none;
+    }
+  }
+
+  .hidden{
+    transform: translateY(-150%);
+  }
